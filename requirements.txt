@@ -1,0 +1,25 @@
+# Core PennyLane (everything you need)
+pennylane>=0.33
+
+# Fast simulators
+pennylane-lightning>=0.34
+
+# Optional but useful plugins
+pennylane-qiskit>=0.34  # For IBM Quantum if you change your mind
+pennylane-sf>=0.33      # Strawberry Fields (quantum photonics)
+
+# Machine learning integration
+torch>=2.0
+tensorflow>=2.13
+
+# Utilities
+numpy>=1.24
+matplotlib>=3.7
+pandas>=2.0
+scikit-learn>=1.3
+plotly>=5.17
+
+# Development
+jupyterlab>=4.0
+ipywidgets>=8.1
+black>=23.0
