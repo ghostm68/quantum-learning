@@ -1,0 +1,2852 @@
+ID,TITLE,title_length,word_count,has_year,contains_love
+0,_this is joan collins,21,4,0,0
+1,_Дневник Анны Франк,19,3,0,0
+2,_ mrs parker and the vicious circle,35,7,0,0
+4,_ the ghost writer,18,4,0,0
+5,_swimming pool,14,2,0,0
+6,_naked lunch,12,2,0,0
+7,_total eclipse,14,2,0,0
+8,_reds,5,1,0,0
+9,_ prozac nation,15,3,0,0
+10,_adaptation,11,1,0,0
+11,_Paura e delirio,16,3,0,0
+12,_wonder boys,12,2,0,0
+13,_lolita (1962),14,2,1,0
+14,_lolita (1998),14,2,1,0
+15,_the low life,13,3,0,0
+16,_the hours,10,2,0,0
+17,_la dolce vita,14,3,0,0
+18,_shakespeare in love,20,3,0,1
+19,_quills,7,1,0,0
+20,_before night falls,19,3,0,0
+21,_il postino,11,2,0,0
+22,_pinero,7,1,0,0
+23,_heart beat -1980-,18,3,1,0
+24,_veronica guerin,16,2,0,0
+25,_tom and viv,12,3,0,0
+26,_skipped parts,14,2,0,0
+27,_barton fink,12,2,0,0
+28,_last call,10,2,0,0
+29,_the bell jar  1979,19,4,1,0
+30,_sylvia,7,1,0,0
+31,_shipping news,14,2,0,0
+32,_suffering man&rsquop;s charity,31,3,0,0
+33,_wilde,6,1,0,0
+34,_the disappearance of garcia lorca,34,5,0,0
+35,_sunset boulevard,17,2,0,0
+36,_the anniversary party,22,3,0,0
+37,_Woody Allen Fall Project 1996 (working title),46,7,1,0
+38,_the shining,12,2,0,0
+39,_nora,5,1,0,0
+40,_mother night,13,2,0,0
+41,_letter from an unknown woman,29,5,0,0
+42,_finding forrester,18,2,0,0
+43,_roman holiday,14,2,0,0
+44,_blue car,9,2,0,0
+45,_don’t look back,16,3,0,0
+46,_Ne te retourne pas,19,4,0,0
+47,_american splendor,18,2,0,0
+48,_shadowlands,12,1,0,0
+49,_annie hall,11,2,0,0
+50,_secret window,14,2,0,0
+51,_arsenic and old lace,21,4,0,0
+52,_the man from elysian fields,28,5,0,0
+53,_born into this,15,3,0,0
+54,_little women,13,2,0,0
+55,_8 mile,7,2,0,0
+56,_the front,10,2,0,0
+57,_as good as it gets,19,5,0,0
+58,_the secret life of ian fleming,31,6,0,0
+59,_the muse,9,2,0,0
+60,_unforgiven,11,1,0,0
+61,_bullets over broadway,22,3,0,0
+62,_the producers,14,2,0,0
+63,_authur! Author!,16,2,0,0
+64,_chapter two,12,2,0,0
+65,_Syysmuistoja,13,1,0,0
+66,_the loves of edgar allan poe,29,6,0,1
+67,_the man with a cloak,21,5,0,0
+68,_torture garden,15,2,0,0
+70,_something’s gotta give,23,3,0,0
+71,_alex and emma,14,3,0,0
+72,_every word is true,19,4,0,0
+73,_kinsey,7,1,0,0
+74,_in my country,14,3,0,0
+75,_Taksówkarz,11,1,0,0
+76,_moulin rouge!,14,2,0,0
+77,_finding neverland,18,2,0,0
+78,_Die Reise des jungen Che,25,5,0,0
+79,_the kiss,9,2,0,0
+80,"_this world, then the fireworks",31,5,0,0
+81,_divine secrets of the ya ya sisterhood,39,7,0,0
+82,_the philadelphia story,23,3,0,0
+83,_hemingway,10,1,0,0
+84,_the rum diary,14,3,0,0
+85,_the crush,10,2,0,0
+86,_where the truth lies,21,4,0,0
+87,_all the president’s men,24,4,0,0
+88,_ask the dust,13,3,0,0
+89,_kalifornia,11,1,0,0
+90,the door in the floor,21,5,0,0
+91,_sideways,9,1,0,0
+92,_dogville,9,1,0,0
+93,_little man tate,16,3,0,0
+94,_neverwas,9,1,0,0
+95,_king lear (1987),17,3,1,0
+96,_the vanishing,14,2,0,0
+97,_how to lose a guy in ten days,30,8,0,0
+98,_everyone says i love you,25,5,0,1
+99,_field of dreams,16,3,0,0
+100,_the last shot,14,3,0,0
+101,_never been kissed,18,3,0,0
+102,_all i want,11,3,0,0
+103,_state and main,15,3,0,0
+104,_ Hermot pinnalla,17,3,0,0
+105,_housebound,11,1,0,0
+106,flashback(1990),15,1,1,0
+107,_sade,5,1,0,0
+108,_closer,7,1,0,0
+109,_zola,5,1,0,0
+110,_black river,12,2,0,0
+111,_stone reader,13,2,0,0
+112,_try seventeen,14,2,0,0
+113,_writer of O,12,3,0,0
+114,_les enfants du sicle,21,4,0,0
+115,_la petite lili,15,3,0,0
+116,_byron,6,1,0,0
+117,_the lost weekend (1945),24,4,1,0
+118,_salem’s lot,12,2,0,0
+119,_luck,5,1,0,0
+120,_under the tuscan sun,21,4,0,0
+121,_celeste in the city,20,4,0,0
+122,_young adam,11,2,0,0
+123,_home of the giants,19,4,0,0
+124,_how to kill your neighbor’s dog,32,6,0,0
+126,_rag tale,9,2,0,0
+127,_girl interrupted,17,2,0,0
+128,_the devil wears prada,22,4,0,0
+129,_postcards from the edge,24,4,0,0
+131,_artists and models (1955),26,4,1,0
+132,_rumor has it,13,3,0,0
+133,_ivans xtc,10,2,0,0
+134,_skin deep,10,2,0,0
+135,_2046,5,1,1,0
+136,_bordertown,11,1,0,0
+137,_wag the dog,12,3,0,0
+138,_obsessed (2002),16,2,1,0
+139,_poetic justice,15,2,0,0
+140,_half light,11,2,0,0
+141,_Капоте 2005 - bennet miller,28,5,1,0
+142,_the edge of madness,20,4,0,0
+143,_cheaper by the dozen,21,4,0,0
+144,_orlando,8,1,0,0
+145,_before sunset,14,2,0,0
+146,_the odd couple,15,3,0,0
+147,_impromptu,10,1,0,0
+148,_wings of courage (1995),24,4,1,0
+149,_the naked truth (1957),23,4,1,0
+150,_james joyce’s women,20,3,0,0
+151,_the singing detective (2003),29,4,1,0
+152,_festival in cannes,19,3,0,0
+153,_le divorce,11,2,0,0
+154,_freedom writers,16,2,0,0
+155,_no direction home,18,3,0,0
+157,_my dog skip,12,3,0,0
+158,le seuil,8,2,0,0
+159,_mean girls,11,2,0,0
+160,_duplex,7,1,0,0
+161,_breaking all the rules,23,4,0,0
+162,_Anime gemelle,14,2,0,0
+163,_he said/she said,17,3,0,0
+164,_journey of a lifetime,22,4,0,0
+165,_turtle diary,13,2,0,0
+166,_factotum,9,1,0,0
+167,_lunacy,7,1,0,0
+168,_love and other disasters,25,4,0,1
+169,_lila says,10,2,0,0
+170,_a love song for bobby long,27,6,0,1
+171,_scoop,6,1,0,0
+172,_the nanny diaries,18,3,0,0
+173,_rko 281,8,2,0,0
+174,_the dreamers “a poem is a petition”,36,7,0,0
+175,_meet the press (1937),22,4,1,0
+176,_dedication,11,1,0,0
+177,kiss kiss bang bang,19,4,0,0
+178,_the unbearable lightness of being,34,5,0,0
+179,_caitlin,8,1,0,0
+180,_running with scissors,22,3,0,0
+181,candy,5,1,0,0
+182,_becoming jane,14,2,0,0
+183,alpha numeric,13,2,0,0
+184,_songwriter,11,1,0,0
+185,_a prairie home companion,25,4,0,0
+186,_interview (2007),17,2,1,0
+187,_Klang der Stille,17,3,0,0
+188,_kafka,6,1,0,0
+189,_the tiger and the snow,23,5,0,0
+190,_your name here,15,3,0,0
+191,_novel romance,14,2,0,0
+192,_land of the blind,18,4,0,0
+193,_i am a camera (1955),21,5,1,0
+194,_music and Lyrics,17,3,0,0
+195,_rough draft,12,2,0,0
+196,_kissing jessica stein,22,3,0,0
+197,_art house,10,2,0,0
+198,_wife vs secretary,18,3,0,0
+199,_Генри дурак,12,2,0,0
+200,_fay grim,9,2,0,0
+201,_f scott fitzgerald in hollywood,32,5,0,0
+202,_the shadow dancer,18,3,0,0
+203,_the front page,15,3,0,0
+204,_Immortel (ad vitam),20,3,0,0
+205,deadline - U.S.A.,17,3,0,0
+206,_stranger than fiction (2005),29,4,1,0
+207,_stranger than fiction (2006),29,4,1,0
+208,_everything is illuminated,26,3,0,0
+209,_neal cassady,13,2,0,0
+210,_moliere,8,1,0,0
+212,"_bright lights, big city",24,4,0,0
+213,_gospel according to janice,27,4,0,0
+214,_trifling with fate,19,3,0,0
+215,_tour deluxe edition,20,3,0,0
+216,_the best time of our lives,27,6,0,0
+217,_tokyo suckerpunch,18,2,0,0
+218,_unge andersen,14,2,0,0
+219,_cry freedom,12,2,0,0
+220,_дневник анны франк,19,3,0,0
+221,_bridget jones’s diary,22,3,0,0
+222,_multiple sarcasms,18,2,0,0
+223,_jake’s women,13,2,0,0
+224,_the obit writer,16,3,0,0
+225,_paper lion,11,2,0,0
+226,_resurrecting the champ,23,3,0,0
+227,_gothic,7,1,0,0
+228,_fairytale: a true story,24,4,0,0
+229,_zelda,6,1,0,0
+230,_el sueño del mono loco,23,5,0,0
+231,_the writer (2004),18,3,1,0
+232,_the hollywood reporter (1926),30,4,1,0
+233,_the passenger 1975,19,3,1,0
+234,_assassins: a film concerning rimbaud,37,5,0,0
+235,_the shrink is in,17,4,0,0
+236,_une saison dans la vie de fedor dostoïevski,44,8,0,0
+237,_the pagan book of arthur rimbaud,33,6,0,0
+238,_suburban girl,14,2,0,0
+239,_her alibi,10,2,0,0
+240,_roma,5,1,0,0
+241,_in love and war,16,4,0,1
+242,_hell is sold out,17,4,0,0
+243,_les soeurs brontë,18,3,0,0
+244,_bon voyage,11,2,0,0
+245,_st elmo’s fire,15,3,0,0
+246,_jours tranquilles a clichy,27,4,0,0
+247,_nim’s island,13,2,0,0
+248,_the jane austen book club,26,5,0,0
+249,_miss potter,12,2,0,0
+250,_broken flowers,15,2,0,0
+251,_tip toes,9,2,0,0
+252,_walk the line,14,3,0,0
+253,_teaching mrs tingle,20,3,0,0
+254,_stupeur et tremblements,24,3,0,0
+255,_the big chill,14,3,0,0
+256,_jerry maguire,14,2,0,0
+257,_Pandaemonium,13,1,0,0
+258,_The Social Network,19,3,0,0
+259,_the night of the iguana,24,5,0,0
+260,_election,9,1,0,0
+261,_dolce’s inferno,16,2,0,0
+262,_munich,7,1,0,0
+263,_the dying gaul,15,3,0,0
+264,_on the hook,12,3,0,0
+265,_festival,9,1,0,0
+266,_a mighty heart,15,3,0,0
+267,hating alison ashley,20,3,0,0
+268,_the last word,14,3,0,0
+269,_shanghai baby,14,2,0,0
+270,_the whore and the whale,24,5,0,0
+271,"_ The Typewriter, the Rifle & the Movie Camera",46,9,0,0
+272,_dante’s inferno,16,2,0,0
+273,_campus confidential,20,2,0,0
+274,_casanova,9,1,0,0
+275,_il casanova di Federico Fellini,32,5,0,0
+276,_dick,5,1,0,0
+277,_caffeine,9,1,0,0
+278,_the garden of eden,19,4,0,0
+279,_what women want,16,3,0,0
+280,_biloxi blues,13,2,0,0
+281,_full time killer,17,3,0,0
+282,_the end of the affair,22,5,0,0
+283,_mr deeds,9,2,0,0
+284,what just happened?,19,3,0,0
+285,_i know who killed me,21,5,0,0
+286,_the holiday,12,2,0,0
+287,_dali & i: the surreal story,28,6,0,0
+288,_get shorty,11,2,0,0
+289,_rapid eye movement,19,3,0,0
+290,_how to lose friends & alienate people,38,7,0,0
+291,_bonnie and clyde,17,3,0,0
+292,_witches of eastwick,20,3,0,0
+293,_scenes from a mall,19,4,0,0
+294,"_synecdoche, new york",21,3,0,0
+295,_coyote ugly,12,2,0,0
+296,_the squid and the whale,24,5,0,0
+297,_inkheart,9,1,0,0
+298,_phantasmagoria:the visions of lewis carroll,44,5,0,0
+299,_bronte,7,1,0,0
+300,_the nines,10,2,0,0
+301,_the number 23,14,3,0,0
+302,_control,8,1,0,0
+303,"_what’s new, pussycat?",22,3,0,0
+304,_how is your fish today?,24,5,0,0
+305,_Il matrimonio di mia sorella,29,5,0,0
+306,_I’m not there,14,3,0,0
+307,_the diving bell & the butterfly,32,6,0,0
+308,_Mr Nobody,10,2,0,0
+309,_A Tale Of Love & Darkness,26,6,0,1
+310,_The Last Word,14,3,0,0
+310,_Le mepris,10,2,0,0
+311,_the secret diary of sigmund freud,34,6,0,0
+312,_agatha,7,1,0,0
+313,_corso:the last beat,20,3,0,0
+314,"_kerouac,the movie",18,2,0,0
+315,_trumbo,7,1,0,0
+316,_The Age Of Love,16,4,0,1
+317,_Kit Kittredge: An American Girl,32,5,0,0
+318,_Roman Polanski:Wanted And Desired,34,4,0,0
+319,_Girl Cut In Two,16,4,0,0
+320,_Eastern Promises,17,2,0,0
+321,_Vicky Christina Barcelona,26,3,0,0
+322,_stay cool,10,2,0,0
+323,_the white hotel,16,3,0,0
+324,_deadline,9,1,0,0
+325,_the beautiful and the damned,29,5,0,0
+326,_Maestro e Margherita 1972,26,4,1,0
+327,_Mistrz i Malgorzata 1990,25,4,1,0
+328,_Master i Margarita 1993,24,4,1,0
+329,_the master and margarita 2005,30,5,1,0
+330,_NINE,5,1,0,0
+331,_he’s just not that into you,28,6,0,0
+332,_fay wray:a life,16,3,0,0
+333,_VALKYRIE,9,1,0,0
+334,_men,4,1,0,0
+335,_schweitzer,11,1,0,0
+336,_amelia,7,1,0,0
+337,_NOTHINGbutTHEtruth,19,1,0,0
+338,_the last station,17,3,0,0
+339,_the argentine,14,2,0,0
+340,_guerilla,9,1,0,0
+341,"_the last time i saw paris, 1954",32,7,1,0
+342,_frost/nixon,12,1,0,0
+343,_me and orson welles,20,4,0,0
+344,_howl,5,1,0,0
+345,_les passages,13,2,0,0
+345,_les passages,13,2,0,0
+346,_zodiac,7,1,0,0
+347,_burn after reading,19,3,0,0
+348,_an englishman in new york,26,5,0,0
+349,_brief interviews with hideous men,34,5,0,0
+350,_YOUTHwithoutYOUTH,18,1,0,0
+351,_INtheMEANTIME,14,1,0,0
+352,_Men Who Stare At Goats,23,5,0,0
+353,"_the scribe, 1966",17,3,1,0
+354,_confessions of a shopaholic,28,4,0,0
+355,_untitled Leni Riefenstahl Egg Pictures Project,47,6,0,0
+356,_wild cherry,12,2,0,0
+357,_Hollywood Renegade,19,2,0,0
+358,_Blessed Is the Match: The Life and Death of Hannah Senesh,58,11,0,0
+359,_Morning Glory,14,2,0,0
+360,_eat PRAY love,14,3,0,1
+361,_tetro,6,1,0,0
+362,_the player,11,2,0,0
+363,_the insider,12,2,0,0
+364,_Szenen eines wüsten Lebens,27,4,0,0
+365,_be cool,8,2,0,0
+366,_empireOFtheSUN,15,1,0,0
+367,_Hemingway & Fuentes,20,3,0,0
+368,_Julie & Julia,14,3,0,0
+369,_Atonement,10,1,0,0
+370,_Mighty Mighty Aphrodite,24,3,0,0
+371,_the limits of control,22,4,0,0
+372,_Angels & Demons,16,3,0,0
+373,_regarding bunuel,17,2,0,0
+374,_the pillow book,16,3,0,0
+375,_bram stoker’s dracula,22,3,0,0
+376,_dracula (1931),15,2,1,0
+377,_nosferatu (1922),17,2,1,0
+378,_shadow of the vampire,22,4,0,0
+379,_she wrote the book (1946),26,5,1,0
+380,_he wrote poetry (1916),23,4,1,0
+381,_walks,6,1,0,0
+382,_she wrote a play and played it(1916),37,7,1,0
+383,_creation,9,1,0,0
+385,_the GIRLFRIEND experience,26,3,0,0
+386,_Die Liebesfälscher,19,2,0,0
+387,_son of morning,15,3,0,0
+388,_The Gossip Columnist,21,3,0,0
+389,_Brüno,6,1,0,0
+390,_HurlyBurly,11,1,0,0
+391,_PATTON,7,1,0,0
+392,_IT RUNS IN THE FAMILY,22,5,0,0
+393,_SOMEWHERE,10,1,0,0
+394,_NICE,5,1,0,0
+395,_Goree Girls,12,2,0,0
+397,_The Last Sect,14,3,0,0
+398,_cold souls,11,2,0,0
+399,_crazy heart,12,2,0,0
+400,_the green hornet,17,3,0,0
+401,_Der Baader Meinhof Komplex,27,4,0,0
+402,_Jud Süß,8,2,0,0
+403,_2O Percent Fiction,19,3,0,0
+404,_Der Poet,9,2,0,0
+405,_Der Bestseller - Mord auf italienisch,38,6,0,0
+406,_Der Bestseller - Wiener Blut,29,5,0,0
+407,_Access Code,12,2,0,0
+408,_Teenage Paparazzi,18,2,0,0
+409,_Ed Wood,8,2,0,0
+410,husbands and wives,18,3,0,0
+411,_peep world,11,2,0,0
+412,_deception 1946,15,2,1,0
+413,_jealousy 1929,14,2,1,0
+414,_new york i love you,20,5,0,1
+415,_the life and death of peter sellers,36,7,0,0
+416,"_you, me, and dupree",20,4,0,0
+417,_the basketball diaries,23,3,0,0
+418,_The Blue Tooth Virgin,22,4,0,0
+419,_King Of California,19,3,0,0
+420,_The Amateurs,13,2,0,0
+421,_THE BUSINESS OF FALLING IN LOVE,32,6,0,1
+422,_full METAL jacket,18,3,0,0
+423,_NOWHERE BOY,12,2,0,0
+424,california suite,16,2,0,0
+425,_FREAKY FRIDAY,14,2,0,0
+426,_call northside 777,19,3,0,0
+427,_SHERLOCK HOLMES,16,2,0,0
+428,_state of play,14,3,0,0
+429,_sex and the single girl,24,5,0,0
+430,_sex and the city,17,4,0,0
+431,_sex and the city 2,19,5,0,0
+432,_starstruck,11,1,0,0
+433,THE FUNERAL PARTY,17,3,0,0
+434,_the book of eli,16,4,0,0
+435,_gentlemen broncos,18,2,0,0
+436,_jennifer’s body,16,2,0,0
+437,_Das Leuchten der Stille,24,4,0,0
+438,_letters to juliet,18,3,0,0
+439,_official selection,19,2,0,0
+440,_front page woman,17,3,0,0
+441,_tough guys don’t dance,23,4,0,0
+442,_Throw Momma from the Train,27,5,0,0
+443,_The Beaches of Agnès,21,4,0,0
+444,_THErunAWAYS,12,1,0,0
+445,_twin peaks: fire walk with me,30,6,0,0
+446,أليس في بلاد العجائب,20,4,0,0
+447,ალისა საოცარ ქვეყანაში,22,3,0,0
+448,The Bitch Posse,15,3,0,0
+449,Father Of Invention,19,3,0,0
+450,Paranoid Park,13,2,0,0
+451,Delírios Eróticos 1990 -kaufman;,32,4,1,0
+452,HEREAFTER,9,1,0,0
+453,THE POET,8,2,0,0
+454,A CLOSED BOOK,13,3,0,0
+455,You Will Meet a Tall Dark Stranger,34,7,0,0
+456,diaryOFaWIMPYkid,16,1,0,0
+457,kickASS,7,1,0,0
+458,theLONGriders,13,1,0,0
+459,the fellowship of the ring,26,5,0,0
+460,the two towers,14,3,0,0
+461,the return of the king,22,5,0,0
+462,LUCKY DUCKS,11,2,0,0
+463,edith’s diary,13,2,0,0
+464,the image of dorian gray in the yellow press,44,9,0,0
+465,the bitter tears of petra von kant,34,7,0,0
+466,TRISTRAM SHANDY,15,2,0,0
+467,son of rambow,13,3,0,0
+468,WALL STREET:money NEVER sleeps,30,4,0,0
+469,STONESinTHEpark,15,1,0,0
+470,GIMME SHELTER,13,2,0,0
+471,LET’SspendTHEnightTOGETHER,26,1,0,0
+472,25x5,4,1,0,0
+473,VOODOO LOUNGE LIVE,18,3,0,0
+474,onePLUSone,10,1,0,0
+475,SHINE A LIGHT,13,3,0,0
+476,BRIDGEStoBABYLON,16,1,0,0
+477,STONESatTHEmax,14,1,0,0
+478,LADIES&GENTLEMEN...,19,1,0,0
+479,poetry,6,1,0,0
+480,inferno,7,1,0,0
+481,luke and brie are on a first date,33,8,0,0
+482,raavan,6,1,0,0
+483,dash and lilly,14,3,0,0
+484,Jack London,11,2,0,0
+485,THE LIFE OF EMILE ZOLA,22,5,0,0
+486,out of africa,13,3,0,0
+487,lady caroline lamb,18,3,0,0
+488,devotion 1946,13,2,1,0
+489,a song to remember,18,4,0,0
+490,the trials of oscar,19,4,0,0
+491,INCEPTION,9,1,0,0
+492,LET IT RAIN,11,3,0,0
+493,wild grass,10,2,0,0
+494,the9thgate,10,1,0,0
+495,Maumln Som Hatar Kvinnor,24,4,0,0
+496,theGIRLwithTHEdragonTATTOO,26,1,0,0
+497,chatterbox 1977,15,2,1,0
+498,LEAVING HAVEL,13,2,0,0
+499,Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?,75,14,0,0
+500,LITTLE BIG MAN,14,3,0,0
+501,UNTITLED MARIA CALLAS PROJECT,29,4,0,0
+502,maria callas biopic with the divine eva green,45,8,0,0
+503,CALLAS FOREVER,14,2,0,0
+504,The War Between Men and Women,29,6,0,0
+506,the boyfriend school,20,3,0,0
+507,i’m still here,14,3,0,0
+508,When Nietzsche Wept,19,3,0,0
+509,Mark Twain Tonight!,19,3,0,0
+510,In the Realms of the Unreal,27,6,0,0
+511,Wrong Is Right,14,3,0,0
+512,THE SWINGER - 1966,18,4,1,0
+513,CRossed Over,12,2,0,0
+514,THE man WITHIN,14,3,0,0
+515,IN SEARCH OF lovecraft,22,4,0,1
+516,La Chamade - released in America as “heartbeat” - 1969–,55,10,1,0
+516,A DARK REFLECTION,17,3,0,0
+517,the hunger,10,2,0,0
+518,А вот и Полли,13,4,0,0
+519,a KNIGHTS tale,14,3,0,0
+520,vibrator,8,1,0,0
+521,the KING’S speech,17,3,0,0
+522,love songs,10,2,0,1
+523,virgin machine,14,2,0,0
+525,assassination of a High School president,40,6,0,0
+526,russian dolls,13,2,0,0
+527,ruby sparks,11,2,0,0
+528,the ghost and mr chicken,24,5,0,0
+531,La rubia satánica,17,3,0,0
+533,EFFIE,5,1,0,0
+534,POE,3,1,0,0
+535,CARNAGE,7,1,0,0
+536,A Vida Perigosa dos Rapazes do Altar,36,7,0,0
+537,THE WORDS,9,2,0,0
+538,HER (2013),10,2,1,0
+540,THE PRIVATE LIVES OF PIPPA LEE,30,6,0,0
+541,DOWN BY LAW “I have lost my book of English”,44,10,0,0
+542,MISSING,7,1,0,0
+544,IT HAPPENED ONE NIGHT,21,4,0,0
+545,DEATHWISH IV THE CRACKDOWN,26,4,0,0
+546,A BUCKET OF BLOOD,17,4,0,0
+547,THE MONKEY’S MASK,17,3,0,0
+548,GOOD AGAINST EVIL,17,3,0,0
+549,Philip Roth Unmasked,20,3,0,0
+550,THE WORLD ACCORDING TO DICK CHENEY,34,6,0,0
+551,MAIDSTONE,9,1,0,0
+552,SALINGER,8,1,0,0
+553,WRITER’S BLOCK 1991,19,3,1,0
+554,MY DEAR SECRETARY,17,3,0,0
+555,BEES IN PARADISE,16,3,0,0
+556,DIARY OF A NUDIST,17,4,0,0
+557,LOVE LETTERS OF A PORTUGUESE NUN,32,6,0,1
+558,TWINKY,6,1,0,0
+559,GIRL WITH GREEN EYES,20,4,0,0
+560,everyday objects,16,2,0,0
+561,labor pains,11,2,0,0
+562,the lifeguard,13,2,0,0
+563,the new daughter,16,3,0,0
+564,TWIXT,5,1,0,0
+565,hustling,8,1,0,0
+566,TAKE THIS WALTZ,15,3,0,0
+567,STORIES WE TELL,15,3,0,0
+568,An ideal wife,13,3,0,0
+569,SEVEN PSYCHOPATHS,17,2,0,0
+570,HER,3,1,0,0
+571,the invisible woman,19,3,0,0
+572,authors anonymous,17,2,0,0
+573,the last beat,13,3,0,0
+574,loveship hateship,17,2,0,1
+575,venus in fur,12,3,0,0
+576,FLEMING: THE MAN WHO WOULD BE BOND,34,7,0,0
+577,anonymous,9,1,0,0
+578,LOVE IS THE PERFECT CRIME,25,5,0,1
+579,voodoo man,10,2,0,0
+580,THE LETTER,10,2,0,0
+581,28 hotel rooms,14,3,0,0
+582,CRASHING,8,1,0,0
+583,set fire to the stars,21,5,0,0
+584,INFAMOUS,8,1,0,0
+585,Tempo de Crescer,16,3,0,0
+586,GOD HELP THE GIRL,17,4,0,0
+587,THE ENGLISH TEACHER,19,3,0,0
+588,SHOWTIME 1946,13,2,1,0
+589,TWIN PEAKS: THE ENTIRE MYSTERY,30,5,0,0
+590,PREDESTINATION,14,1,0,0
+591,a room with a view,18,5,0,0
+592,SYRUP,5,1,0,0
+593,THE ADDERALL DIARIES,20,3,0,0
+594,ASK ME ANYTHING,15,3,0,0
+594,BLIND REVENGE -2009-,20,3,1,0
+595,THE POET - 2007 -,17,5,1,0
+596,meet me in montenegro,21,4,0,0
+598,The Last Five Years,19,4,0,0
+599,Woodstock,9,1,0,0
+600,The Lives Of Others,19,4,0,0
+601,SATAN’S BREW,12,2,0,0
+602,BEWARE OF A HOLY WHORE,22,5,0,0
+603,PLAYING IT COOL,15,3,0,0
+604,the rewrite,11,2,0,0
+605,THE GAMBLER,11,2,0,0
+606,inherent vice,13,2,0,0
+607,THE TEAM,8,2,0,0
+608,blackhat,8,1,0,0
+609,how to make love like an English man,36,8,0,1
+610,we need to talk about kevin,27,6,0,0
+611,HIT BY LIGHTNING,16,3,0,0
+612,the osterman weekend,20,3,0,0
+613,in the land of women,20,5,0,0
+614,PULP,4,1,0,0
+617,danny collins,13,2,0,0
+618,strangerland,12,1,0,0
+619,true story,10,2,0,0
+620,PLEASE STAND BY,15,3,0,0
+621,the escort,10,2,0,0
+622,some kind of beautiful,22,4,0,0
+623,the diary of a teenage girl,27,6,0,0
+624,the thirteenth tale,19,3,0,0
+625,love & mercy,12,3,0,1
+626,everything will be fine,23,4,0,0
+627,5 to 7,6,3,0,0
+628,the end of the tour,19,5,0,0
+629,truth,5,1,0,0
+630,manifesto,9,1,0,0
+631,the secret scripture,20,3,0,0
+632,genius,6,1,0,0
+633,YOUTH,5,1,0,0
+634,the mad miss manton,19,4,0,0
+635,comrade x,9,2,0,0
+636,crimson peak,12,2,0,0
+637,THE BARRETTS OF WIMPOLE STREET,30,5,0,0
+638,in the good old summertime,26,5,0,0
+639,when ladies meet 1933,21,4,1,0
+640,when ladies meet 1941,21,4,1,0
+641,FATHERS AND DAUGHTERS,21,3,0,0
+642,the adventures of jack london,29,5,0,0
+643,exclusive story,15,2,0,0
+644,the famous ferguson case -1932-,31,5,1,0
+645,never a dull moment -1950-,26,5,1,0
+646,third finger left hand,22,4,0,0
+657,authors anonymous,17,2,0,0
+658,The typewriter (in the 21st century),36,6,0,0
+659,A QUIET PASSION,15,3,0,0
+660,libeled lady,12,2,0,0
+661,my favorite year,16,3,0,0
+662,the constant nymph,18,3,0,0
+663,rock the kasbah,15,3,0,0
+664,young cassidy,13,2,0,0
+665,beloved sisters,15,2,0,1
+666,white bondage,13,2,0,0
+667,alice in the cities,19,4,0,0
+668,the paperboy,12,2,0,0
+669,the odessa file,15,3,0,0
+670,Hemingways Abenteuer eines jungen Mannes,40,5,0,0
+671,tenebre,7,1,0,0
+672,the kremlin letter,18,3,0,0
+673,herostratus,11,1,0,0
+674,collateral beauty,17,2,0,0
+675,press for time,14,3,0,0
+676,BANNERLINE,10,1,0,0
+677,the lost weekend,16,3,0,0
+678,george white’s 1935 scandals,28,4,1,0
+679,gold diggers of 1937,20,4,1,0
+680,hollywood canteen,17,2,0,0
+681,smart blonde,12,2,0,0
+682,EVE KNEW HER APPLES,19,4,0,0
+683,HHHH,4,1,0,0
+684,anthropoid,10,1,0,0
+685,the promise,11,2,0,0
+686,the secret scripture,20,3,0,0
+687,war machine,11,2,0,0
+689,christine,9,1,0,0
+690,neruda and jackie,17,3,0,0
+691,Billy Lynn’s Long Halftime Walk,31,5,0,0
+692,allied - 2016,13,3,1,0
+693,love & friendship,17,3,0,1
+694,it’s just the end of the world,30,7,0,0
+695,elle,4,1,0,0
+696,nocturnal animals,17,2,0,0
+697,paterson,8,1,0,0
+699,design for living,17,3,0,0
+700,up pops the devil,17,4,0,0
+701,in the mouth of madness,23,5,0,0
+702,starting out in the evening,27,5,0,0
+703,ask the dust,12,3,0,0
+704,good night and good luck,24,5,0,0
+705,the quiet american,18,3,0,0
+706,the year of living dangerously,30,5,0,0
+707,the adventurous blonde,22,3,0,0
+708,blonde inspiration,18,2,0,0
+709,in the good old summertime,26,5,0,0
+710,shop around the corner,22,4,0,0
+711,as clouds roll by,17,4,0,0
+712,words and music,15,3,0,0
+713,theodora goes wild,18,3,0,0
+714,the glass bottom boat,21,4,0,0
+715,men are such fools,18,4,0,0
+716,the big clock,13,3,0,0
+717,foreign correspondent,21,2,0,0
+718,freedom of the press,20,4,0,0
+719,ever since eve,14,3,0,0
+720,design for scandal,18,3,0,0
+721,night without sleep,19,3,0,0
+722,another man’s poison,20,3,0,0
+723,mickey seventeen,16,2,0,0
+724,the thirteenth letter,21,3,0,0
+725,love letters 1945,17,3,1,1
+726,the ex mrs bradford,19,4,0,0
+727,sleuth 1972,11,2,1,0
+728,sleuth 2007,11,2,1,0
+729,William S Burroughs :a man within,33,6,0,0
+730,charlie chan in the chinese cat,31,6,0,0
+731,dear brigitte,13,2,0,0
+732,the youngest profession,23,3,0,0
+733,citizen kane,12,2,0,0
+734,jefferson in paris,18,3,0,0
+735,STARCROSSED,11,1,0,0
+736,woman of the year,17,4,0,0
+737,THE LIBERTINE,13,2,0,0
+738,quartet,7,1,0,0
+739,TWICE TOLD TALES,16,3,0,0
+740,Χένρυ & Τζουν,13,3,0,0
+741,born yesterday,14,2,0,0
+742,BELL BOOK AND CANDLE,20,4,0,0
+743,manhattan night,15,2,0,0
+744,MANHATTAN ROMANCE,17,2,0,0
+745,MANHATTAN,9,1,0,0
+746,JANE AUSTEN IN MANHATTAN,24,4,0,0
+747,ADVENTURE IN MANHATTAN,22,3,0,0
+748,YOUNG MAN OF MANHATTAN,22,4,0,0
+749,MANHATTAN BY NUMBERS,20,3,0,0
+750,sisters,7,1,0,0
+751,marry the girl,14,3,0,0
+752,behind the rising sun,21,4,0,0
+753,june bride,10,2,0,0
+754,this marriage business,22,3,0,0
+755,the doorway to hell,19,4,0,0
+756,winter meeting,14,2,0,0
+757,long day’s journey into night,29,5,0,0
+758,_>LOVE & SAVAGERY,17,3,0,1
+759,jazz heaven,11,2,0,0
+760,young widow,11,2,0,0
+761,critics choice,14,2,0,0
+762,double exposure,15,2,0,0
+763,THE BRIDE GOES WILD,19,4,0,0
+764,BORN TO BE BLUE,15,4,0,0
+765,Kill the Trumpet Player (working title),39,6,0,0
+766,UNHOLY PARTNERS,15,2,0,0
+767,YOU CAN’T ESCAPE FOREVER,24,4,0,0
+768,EQUALS,6,1,0,0
+769,CERTAIN WOMEN,13,2,0,0
+770,AUTHOR: JT LEROY STORY,22,4,0,0
+771,THE DEVIL BAT,13,3,0,0
+772,AMANDA KNOX,11,2,0,0
+773,THE HOODLUM SAINT,17,3,0,0
+774,iron moon,9,2,0,0
+775,notes on blindness,18,3,0,0
+777,MIFUNE,6,1,0,0
+778,abattoir,8,1,0,0
+778,neruda,6,1,0,0
+779,BRAND NEW TESTAMENT,19,3,0,0
+779,nocturnal animals,17,2,0,0
+780,burn counter,12,2,0,0
+781,the black book 2006,19,4,1,0
+782,DEATHWISH TWO,13,2,0,0
+783,the black book 1949,19,4,1,0
+784,the deadly dream,16,3,0,0
+785,kisses for my president,23,4,0,0
+786,NAKED SOULS,11,2,0,0
+787,die wahren memoiren eines internationalen killers,49,6,0,0
+788,headline shooter,16,2,0,0
+789,the redistributors,18,2,0,0
+790,cobain montage of heck,22,4,0,0
+791,sid & nancy,11,3,0,0
+792,with love from the age of reason,32,7,0,1
+793,my nights are more beautiful than your days,43,8,0,0
+794,snowed under,12,2,0,0
+795,the leading man,15,3,0,0
+796,BURDEN OF DREAMS,16,3,0,0
+797,the bad and the beautiful,25,5,0,0
+798,DOWNFALL,8,1,0,0
+799,the legendary life of ernest hemingway,38,6,0,0
+800,the strange case of wilhem reich,32,6,0,0
+801,poem: i set my foot upon the air and it carried me,50,12,0,0
+802,my brilliant career,19,3,0,0
+803,deathwatch,10,1,0,0
+804,a letter to three wives,23,5,0,0
+805,Vi trenger hverandre,20,3,0,0
+806,the man who came to dinner,26,6,0,0
+807,Das Leben ist Lüge,18,4,0,0
+808,king of the newsboys,20,4,0,0
+809,the night of january 16th,25,5,0,0
+810,newsbreak,9,1,0,0
+811,the sorrows of satan,20,4,0,0
+812,PHANTOM 1922,12,2,1,0
+813,anomalisa,9,1,0,0
+814,american pastoral,17,2,0,0
+815,pa$$engers,10,1,0,0
+816,i am watching you,17,4,0,0
+817,THE BELL  JAR 2018,18,4,1,0
+818,THE BEGUILED,12,2,0,0
+819,practically yours,17,2,0,0
+820,the circle,10,2,0,0
+821,jason nash is married,21,4,0,0
+822,how to talk to girls at parties,31,7,0,0
+823,sudden  fear,12,2,0,0
+824,s,1,1,0,0
+825,touched by fire,15,3,0,0
+826,american made,13,2,0,0
+827,the greatest showman,20,3,0,0
+828,rock that body,14,3,0,0
+829,dostoevsky’s travels,20,2,0,0
+831,dostoevsky behind bars,22,3,0,0
+832,dostoevskiy,11,1,0,0
+833,beyond a reasonable doubt,25,4,0,0
+834,while the city sleeps,21,4,0,0
+835,dead poets society,18,3,0,0
+836,delta of venus,14,3,0,0
+837,endless poetry,14,2,0,0
+838,possession,10,1,0,0
+839,the handmaiden,14,2,0,0
+840,Seule sur la plage la nuit,26,6,0,0
+841,final portrait,14,2,0,0
+842,shoot the moon,14,3,0,0
+843,angel,5,1,0,0
+844,crouching tiger hidden dragon,29,4,0,0
+845,Dongju: The Portrait of a Poet (Korea: 동주),42,8,0,0
+846,OUR MAN FLINT,13,3,0,0
+847,in like flint,13,3,0,0
+848,biography of a bachelor girl,28,5,0,0
+849,the help,8,2,0,0
+850,the post,8,2,0,0
+851,last days of disco,18,4,0,0
+852,by the sea,10,3,0,0
+853,the raven,9,2,0,0
+854,edgar a poe buried alive,24,5,0,0
+855,hangman 2017,12,2,1,0
+856,the girl in the book,20,5,0,0
+857,leave her to heaven,19,4,0,0
+858,DEAR DICTATOR,13,2,0,0
+859,INSIDIOUS CHAPTER THREE,23,3,0,0
+860,all the money in the world,26,6,0,0
+861,MOLLY'S GAME,12,2,0,0
+862,老娘叫譚雅,5,1,0,0
+863,WELCOME THE STRANGER,20,3,0,0
+864,LUCY,4,1,0,0
+865,the vanishing of sydney hall,28,5,0,0
+866,BLAME,5,1,0,0
+867,the theory of everything,24,4,0,0
+868,ANNIHILATION,12,1,0,0
+869,SUSPIRA,7,1,0,0
+870,tomb raider,11,2,0,0
+871,down a dark hall,16,4,0,0
+872,book club,9,2,0,0
+873,the seagull,11,2,0,0
+874,destination wedding,19,2,0,0
+875,the sisters brothers,20,3,0,0
+876,a private war,13,3,0,0
+877,vice,4,1,0,0
+878,Based on a True Story,21,5,0,0
+879,The Guernsey Literary and Potato Peel Pie Society,49,8,0,0
+880,the rebel in the rye,20,5,0,0
+881,MARY SHELLLEY,13,2,0,0
+882,the imitation game,18,3,0,0
+883,colette,7,1,0,0
+884,official secrets,16,2,0,0
+885,a house in the sky,18,5,0,0
+886,the other side of the wind,26,6,0,0
+887,they'll love me when I'm dead,29,6,0,1
+889,f for fake,10,3,0,0
+890,the eyes of orson welles,24,5,0,0
+891,"Don’t Worry, He Won’t Get Far on Foot",37,8,0,0
+892,becoming astrid,15,2,0,0
+893,velvet buzzsaw,14,2,0,0
+894,at eternity's gate,18,3,0,0
+895,bohemian rhapsody,17,2,0,0
+896,the realm,9,2,0,0
+897,boy erased,10,2,0,0
+898,THE HOUSE THAT JACK BUILT,25,5,0,0
+899,rumble fish,11,2,0,0
+900,drugstore cowboy,16,2,0,0
+901,the dirt,8,2,0,0
+902,"Extremely Wicked, Shockingly Evil and Vile",42,6,0,0
+903,Tolkien,7,1,0,0
+904,The Professor and the Madman,28,5,0,0
+905,the professor,13,2,0,0
+906,rocketman,9,1,0,0
+908,blinded by the light,20,4,0,0
+909,satanic panic,13,2,0,0
+910,all is true,11,3,0,0
+911,text,4,1,0,0
+912,Reiz Holivudā,13,2,0,0
+913,an accidental studio,20,3,0,0
+914,chinese coffee,14,2,0,0
+915,cast a deadly spell,19,4,0,0
+916,MANK,4,1,0,0
+917,the rich are always with us,27,6,0,0
+918,vita and virginia,17,3,0,0
+920,the joker,9,2,0,0
+921,official secrets,16,2,0,0
+922,nelly,5,1,0,0
+923,the report,10,2,0,0
+924,the aspen papers,16,3,0,0
+925,who will write our history,26,5,0,0
+926,joseph pulitzer voice of the people,35,6,0,0
+927,midsommar,9,1,0,0
+928,the bookshop,12,2,0,0
+929,london fields,13,2,0,0
+930,the corpse vanishes,19,3,0,0
+931,elizabeth is missing,20,3,0,0
+932,vivarium,8,1,0,0
+935,coven of evil,13,3,0,0
+936,bitter honey,12,2,0,0
+937,the roads not taken,19,4,0,0
+938,news of the world,17,4,0,0
+939,A MOUTHFUL OF AIR,17,4,0,0
+940,radioactive,11,1,0,0
+941,bombshell,9,1,0,0
+942,Kann und muss man jetzt Filme machen?,37,7,0,0
+943,letter of introduction,22,3,0,0
+944,the sisters,11,2,0,0
+945,anais nin observed,18,3,0,0
+946,the aspern papers,17,3,0,0
+947,the dinner party,16,3,0,0
+948,kate can't swim,15,3,0,0
+949,misbehaviour,12,1,0,0
+950,hannah arendt,13,2,0,0
+951,MS slavic 7 ???,15,4,0,0
+952,the fox hunter,14,3,0,0
+953,night train to venice,21,4,0,0
+954,silk,4,1,0,0
+954,YOUNG ADULT,11,2,0,0
+955,misty button,12,2,0,0
+956,dark places,11,2,0,0
+957,the feeling of being watched,28,5,0,0
+958,summerland,10,1,0,0
+959,waiting for the barbarians,26,4,0,0
+960,flannery,8,1,0,0
+961,the burnt orange heresy,23,4,0,0
+962,antebellum,10,1,0,0
+963,fatman,6,1,0,0
+964,book of blood,13,3,0,0
+965,books of blood,14,3,0,0
+966,house by the river,18,4,0,0
+967,crime wave,10,2,0,0
+968,the dry,7,2,0,0
+969,grimm love,10,2,0,1
+970,"jfk, oliver stone",17,3,0,0
+971,main street to broadway,23,4,0,0
+972,thoroughbreds,13,1,0,0
+973,BLITHE SPIRIT edward hall,25,4,0,0
+974,the last sentence,17,3,0,0
+975,RUSSIAN ARK,11,2,0,0
+976,gogol:the beginning,19,2,0,0
+977,gogol:viy,9,1,0,0
+978,gogol:a terrible vengeance,26,3,0,0
+979,to olivia,9,2,0,0
+980,brimstone incorporated,22,2,0,0
+981,the world to come,17,4,0,0
+982,rifkin's festival,17,2,0,0
+983,Одиссея Генри Миллера,21,3,0,0
+984,the hating game,15,3,0,0
+985,Macbeth  1908,13,2,1,0
+986,Macbeth  1916,13,2,1,0
+987,Macbeth 1948,12,2,1,0
+988,Throne of Blood,15,3,0,0
+989,Macbeth 1971,12,2,1,0
+990,Macbeth 1978,12,2,1,0
+991,Men of Respect,14,3,0,0
+992,The Tragedy of Macbeth,22,4,0,0
+993,"Scotland, PA",12,2,0,0
+994,Maqbool,7,1,0,0
+995,Teenage Gang Debs,17,3,0,0
+996,joe macbeth,11,2,0,0
+997,magnesium,9,1,0,0
+998,nightbooks,10,1,0,0
+999,bergman island,14,2,0,0
+1000,the year of fury,16,4,0,0
+1001,secret rites,12,2,0,0
+1002,chinese box,11,2,0,0
+1003,c'mon c'mon,11,2,0,0
+1004,licorice pizza,14,2,0,0
+1005,herbert butler: witness to the future,37,6,0,0
+1006,nocturne,8,1,0,0
+1007,THE GREAT SINNER,16,3,0,0
+1008,twenty six days from the life of dostoevsky,43,8,0,0
+1009,"the gambler, 1997",17,3,1,0
+1010,the eyes of tammy faye,22,5,0,0
+1011,the most reluctant convert; the untold story of cs lewis,56,10,0,0
+1012,the book of vision,18,4,0,0
+1013,"the grateful dead movie, 1977",29,5,1,0
+1014,"the other one, the long strange trip of bob weir",48,10,0,0
+1015,"the grateful dead , LONG STRANGE TRIP 2017",42,8,1,0
+1016,BREAKFAST AT TIFFANY'S,22,3,0,0
+1017,EMINENT DOMAIN,14,2,0,0
+1018,fear and loathing in las vegas,30,6,0,0
+1019,a scanner darkly,16,3,0,0
+1020,"The French Dispatch of the Liberty, Kansas Evening Sun",54,9,0,0
+1021,"FRANCE (2021, Bruno Dumont)",27,4,1,0
+1022,THE LAUREATE,12,2,0,0
+1023,WARHUNT,7,1,0,0
+1024,THE THREE FIFTYFIVE,19,3,0,0
+1025,THE ASSISTANT,13,2,0,0
+1026,THE RUSSIA HOUSE,16,3,0,0
+1027,THE SEED,8,2,0,0
+1028,DEBORAH,7,1,0,0
+1029,Track The Man Down,18,4,0,0
+1030,York Witches Society,20,3,0,0
+1031,The CLash Rude Boy,18,4,0,0
+1032,NOT OKAY,8,2,0,0
+1033,the world after us,18,4,0,0
+1034,WIFE LIKE,9,2,0,0
+1035,Luckiest Girl Alive,19,3,0,0
+1036,art of love,11,3,0,1
+1037,operation mincemeat,19,2,0,0
+1038,the gray man,12,3,0,0
+1039,write & wrong,13,3,0,0
+1040,benediction,11,1,0,0
+1041,the house of snails,19,4,0,0
+1042,gone in the night,17,4,0,0
+1043,the idiot,9,2,0,0
+1044,section 8,9,2,0,0
+1045,norman mailer in provincetown,29,4,0,0
+1046,on the line,11,3,0,0
+1047,philip roth unmasked,20,3,0,0
+1048,frank & penelope,16,3,0,0
+1049,WASP22,6,1,0,0
+1050,jfk revisited through the looking glass,39,6,0,0
+1051,red book ritual,15,3,0,0
+1052,the school of good and evil,27,6,0,0
+1053,devil's workshop,16,2,0,0
+1054,patti smith electric poet,25,4,0,0
+1055,the magus,9,2,0,0
+1056,the infernal machine,20,3,0,0
+1057,the spy who dumped me,21,5,0,0
+1058,the wonder,10,2,0,0
+1059,writing with fire,17,3,0,0
+1060,platinum blonde,15,2,0,0
+1061,next time we love,17,4,0,1
+1062,unsilenced,10,1,0,0
+1063,vengeance,9,1,0,0
+1064,the anchor,10,2,0,0
+1065,the letter 1929,15,3,1,0
+1065,the black phone,15,3,0,0
+1066,earwig,6,1,0,0
+1067,out of the shadows,18,4,0,0
+1068,romance in style,16,3,0,0
+1069,diary of a mad housewife,24,5,0,0
+1070,lethal love letter,18,3,0,1
+1071,bandit,6,1,0,0
+1072,diary of a spy,14,4,0,0
+1073,bad reputation,14,2,0,0
+1074,de sade,7,2,0,0
+1075,the sargossa manuscript,23,3,0,0
+1076,the long night,14,3,0,0
+1077,his girl friday,15,3,0,0
+1078,moonage daydream,16,2,0,0
+1079,blonde,6,1,0,0
+1080,the wonder,10,2,0,0
+1081,biography of a bachelor girl,28,5,0,0
+1082,the noel diary,14,3,0,0
+1083,charade,7,1,0,0
+1084,the menu,8,2,0,0
+1085,"tangier, 1946",13,2,1,0
+1086,"DECODER, 1984",13,2,1,0
+1087,"Burroughs The Movie, 1983",25,4,1,0
+1107,The woman in the fifth,22,5,0,0
+1112,1408,4,1,1,0
+1113,savages,7,1,0,0
+1115,peter ibbetson,14,2,0,0
+1116,absence of malice,17,3,0,0
+1117,final assignment,16,2,0,0
+1118,"Babylon, 2022",13,2,1,0
+1119,the last thing Mary saw,23,5,0,0
+1120,medicinen,9,1,0,0
+1121,the long rider,14,3,0,0
+1122,brodsky is not a poet,21,5,0,0
+1123,gentlemen don't eat poets,25,4,0,0
+1124,"the poet,Giedrius Tamosevicius & Vytautas V. Landsbergis",56,7,0,0
+1125,they who walked among us,24,5,0,0
+1126,the dig,7,2,0,0
+1127,the distinguished citizen,25,3,0,0
+1128,book club the next chapter,26,5,0,0
+1129,イニシェリン島の精霊,10,1,0,0
+1130,north Dallas forty,18,3,0,0
+1131,"nine girls,1944",15,2,1,0
+1132,"little women,1917",17,2,1,0
+1133,"little women,1918",17,2,1,0
+1134,"little women,1933",17,2,1,0
+1135,"little women,1949",17,2,1,0
+1136,"little women,1994",17,2,1,0
+1137,"little women,2019",17,2,1,0
+1138,"the brides, 2018",16,3,1,0
+1139,"basic instinct two, michael caton-jones",39,5,0,0
+1140,"basic instinct, paul verhoeven",30,4,0,0
+1141,"rolling thunder review, a bob dylan story by martin scorsese, 2019",66,11,1,0
+1142,the monster project,19,3,0,0
+1143,"i am (not) a monster, 2019",26,6,1,0
+1144,italian studies,15,2,0,0
+1145,brazen,6,1,0,0
+1146,townhouse confidential,22,2,0,0
+1147,the subtle art of not giving a fuck,35,8,0,0
+1148,MANK,4,1,0,0
+1149,"cafe society, 2016",18,3,1,0
+1150,"cafe society, 1939",18,3,1,0
+1151,confessions of a Nazi spy,25,5,0,0
+1152,Nazi agent,10,2,0,0
+1153,Hitler dead or alive,20,4,0,0
+1154,"Dorothea Lange, a visual life, 1995",35,6,1,0
+1155,"invasion of the body snatchers, 1978",36,6,1,0
+1156,newsies,7,1,0,0
+1157,wrestling ernest hemingway,26,3,0,0
+1158,Hemingway & geller,18,3,0,0
+1159,the paper,9,2,0,0
+1160,"the pale blue eye, 2022",23,5,1,0
+1161,"fame is the name of the game, 1966",34,8,1,0
+1162,network,7,1,0,0
+1163,gods and generals,17,3,0,0
+1164,brain on fire,13,3,0,0
+1165,queer,5,1,0,0
+1166,Oppenheimer,11,1,0,0
+1167,Le coeur à l'ouvrage,20,4,0,0
+1168,The Belle of Amherst,20,4,0,0
+1169,"the wild party, 1929",20,4,1,0
+1170,"the wild party, 1975",20,4,1,0
+1171,the mad writer,14,3,0,0
+1172,a Jew must die,14,4,0,0
+1173,blindspot,9,1,0,0
+1174,the exception,13,2,0,0
+1175,and everything is going fine,28,5,0,0
+1175,spalding gray: a personal history of the amercian theater,57,9,0,0
+1176,son of the gods,15,4,0,0
+1177,"THE BRONTE SISTERS, 1979",24,4,1,0
+1178,The Secret Diaries of Charlotte Bronte,38,6,0,0
+1179,"a little white lie, 2023",24,5,1,0
+1180,"SCREAMING MIMI,gerd oswald,1958",31,3,1,0
+1181,"the dam on the yellow river, 1960",33,7,1,0
+1182,"bless you, prison",17,3,0,0
+1183,call me bwana,13,3,0,0
+1184,"the alphabet murders, 1965",26,4,1,0
+1185,"the girl in the fountain, 2021",30,6,1,0
+1186,"the sex thief, 1973, martin campbell",36,6,1,0
+1187,the book thief,14,3,0,0
+1188,penthouse north,15,2,0,0
+1189,the price of admission,22,4,0,0
+1190,spinning gold,13,2,0,0
+1191,can't stop the music,20,4,0,0
+1192,An Alan Smithee Film: Burn Hollywood Burn,41,7,0,0
+1193,hacks,5,1,0,0
+1194,hollywood uncensored,20,2,0,0
+1195,being the ricardos,18,3,0,0
+1196,all that i am,13,4,0,0
+1197,all that i have,15,4,0,0
+1198,shockproof,10,1,0,0
+1199,a letter to three wives,23,5,0,0
+1200,"The Legend of Lylah Clare, 1968, Robert Aldrich",47,8,1,0
+1201,"me, me. and the others,1966",27,5,1,0
+1202,"hotel paradiso, 1966",20,3,1,0
+1203,"the young rebel,1967",20,3,1,0
+1204,"one hundred and one nights,1995",31,5,1,0
+1205,"solomon and sheba,1956",22,3,1,0
+1206,"the hunchback of notre dame,1956",32,5,1,0
+1207,"the hunchback of notre dame,1939",32,5,1,0
+1208,"the star maker,1939",19,3,1,0
+1209,"swanee river,1939",17,2,1,0
+1210,"the return of doctor x,1939",27,5,1,0
+1211,"the star maker,1939",19,3,1,0
+1212,"it could happen to you,1939",27,5,1,0
+1213,"nancy drew star reporter,1939",29,4,1,0
+1214,"code of the secret service,1939",31,5,1,0
+1215,"hitler beast of berlin,1939",27,4,1,0
+1216,"the hitler home movies, 2023",28,5,1,0
+1217,"munch, 2023 Henrik Martin Dahlsbakken",37,5,1,0
+1218,"the devil in the flesh,1998",27,5,1,0
+1219,"the devil in the flesh 2 (teacher's pet),2000",45,8,1,0
+1220,past life,9,2,0,0
+1221,Seneca - On the Creation of Earthquakes,39,7,0,0
+1222,"gentleman's agreement,1947, Elia Kazan",38,4,1,0
+1223,"slayers, 2022, K Asher Levin",28,5,1,0
+1224,"Hemingway, The Hunter Of Death",30,5,0,0
+1225,"wolfen,",7,1,0,0
+1226,charlie bubbles,15,2,0,0
+1227,alpha beta,10,2,0,0
+1228,don't look deeper,17,3,0,0
+1229,"the teckman mystery, 1954, Wendy toye",37,6,1,0
+1230,the nautical chart,18,3,0,0
+1231,the happy prince,16,3,0,0
+1232,cat person,10,2,0,0
+1233,"Junket Whore, Debbie Melnyk",27,4,0,0
+1234,Komikku zasshi nanka iranai!,28,4,0,0
+1235,being the ricardos,18,3,0,0
+1236,Journal inachevé,16,2,0,0
+1237,m3gan,5,1,0,0
+1237,wrong move,10,2,0,0
+1238,m3gan sequel,12,2,0,0
+1238,north face,10,2,0,0
+1239,"Es ist nur eine Phase, Hase",27,6,0,0
+1240,when you finish saving the world,32,6,0,0
+1241,the winter witch,16,3,0,0
+1242,dances with wolves,18,3,0,0
+1243,my Salinger year,16,3,0,0
+1244,six minutes to midnight,23,4,0,0
+1245,it happened tomorrow,20,3,0,0
+1246,hollywood's hidden lives,24,3,0,0
+1247,the book of esther,18,4,0,0
+1248,the love club: nicole,21,4,0,1
+1249,the Spaniard's curse,20,3,0,0
+1250,dovlatov,8,1,0,0
+1251,the adventures of saul bellow,29,5,0,0
+1252,tchaikovsky-s-wife,18,1,0,0
+1253,"the eagle, 1925",15,3,1,0
+1254,"the chess player, 1927",22,4,1,0
+1255,"tarakanova, 1930",16,2,1,0
+1256,"the Scarlett empress, 1934",26,4,1,0
+1257,"The rise of Catherine the great, 1934",37,7,1,0
+1258,betrayal 1938,13,2,1,0
+1259,Katharina I. von Russland 1940,30,5,1,0
+1260,"general suvorov,1941",20,2,1,0
+1261,"a royal scandal, 1945",21,4,1,0
+1262,the mysterious rider 1948,25,4,1,0
+1263,"tempest, 1958",13,2,1,0
+1264,"the night before Christmas, 1961",32,5,1,0
+1265,"Catherine of Russia, 1963 -",27,5,1,0
+1266,"great Catherine, 1968",21,3,1,0
+1267,"Vechir na Ivana Kupala ,1968",28,5,1,0
+1268,"The Adventures of Baron Munchausen,1988",39,5,1,0
+1269,"Vivat, gardemariny! 1991",24,3,1,0
+1270,Forbidden Paradise 1924,23,3,1,0
+1271,gli ultimi fuochi,17,3,0,0
+1272,Samson and the Slave Queen,26,5,0,0
+1273,a man astray,12,3,0,0
+1274,Münchhausen,11,1,0,0
+1275,Friedrich Schiller – The Triumph of a Genius,44,8,0,0
+1276,bismark – Wolfgang Liebeneiner,30,4,0,0
+1277,slaves in bondage– elmer clifton,32,5,0,0
+1278,barry |v.gahndi,15,2,0,0
+1279,secreteriat,11,1,0,0
+1280,my bed zinc,11,3,0,0
+1281,bedwin hacker,13,2,0,0
+1282,in bed with an elephant,23,5,0,0
+1283,in bed with ulysses,19,4,0,0
+1284,the Bedford incident,20,3,0,0
+1285,three for bedroom c,19,4,0,0
+1286,truth or dare,13,3,0,0
+1287,"The Murder of Gabby Petito: Truth, Lies and Social Media",56,10,0,0
+1288,"chariots of fire, hugh hudson",29,5,0,0
+1289,infinity pool,13,2,0,0
+1290,the reader,10,2,0,0
+1291,the reading,11,2,0,0
+1292,a good wife's guide to murder,29,6,0,0
+1293,the white crow,14,3,0,0
+1294,a house is not a home,21,6,0,0
+1295,turn every page,15,3,0,0
+1296,miss marx,9,2,0,0
+1297,the never list,14,3,0,0
+1298,seberg,6,1,0,0
+1299,true crime,10,2,0,0
+1300,anything else,13,2,0,0
+1301,maps to the stars,17,4,0,0
+1302,young & beautiful,17,3,0,0
+1303,hellbender,10,1,0,0
+1304,ON THE EDGE OF THE INHABITABLE WORLD - THE LIFE OF THE POET ARTHUR RIMBAUD,74,15,0,0
+1305,"Faust - A German Folktale, F. W. Murnau",39,8,0,0
+1306,beetlejuice,11,1,0,0
+1307,women talking,13,2,0,0
+1308,man trouble,11,2,0,0
+1309,monkeybone,10,1,0,0
+1310,fear street part one 1994,25,5,1,0
+1311,fear street part two 1978,25,5,1,0
+1312,fear street part three 1661,27,5,1,0
+1313,"bruno reidal, confessions of a murderer",39,6,0,0
+1314,the testament of cornelius gulden,33,5,0,0
+1315,ich kenn' dich nicht und liebe dich,35,7,0,0
+1316,die lustigen weiber,19,3,0,0
+1317,springtime in vienna,20,3,0,0
+1318,the girl and the legend,23,5,0,0
+1319,Die Halbzarte,13,2,0,0
+1320,"Die Deutschmeister, 1955",24,3,1,0
+1321,sissi,5,1,0,0
+1322,sissi - Die junge Kaiserin,26,5,0,0
+1323,sissi - Schicksalsjahre einer Kaiserin,38,5,0,0
+1324,Mordet på Trotskij,18,3,0,0
+1325,a poet in new york,18,5,0,0
+1326,a poet in new york,18,5,0,0
+1327,The Life After Death Project 3: Seance Encounters,49,8,0,0
+1328,Chappaquiddick,14,1,0,0
+1329,rogue,5,1,0,0
+1330,their finest,12,2,0,0
+1331,under fire,10,2,0,0
+1332,another woman,13,2,0,0
+1333,"tropic of cancer by henry miller, joseph strick",47,8,0,0
+1334,Boston Strangler,16,2,0,0
+1335,The Magnificent Life of Marcel Pagnol,37,6,0,0
+1336,Madame Web,10,2,0,0
+1337,small town filmmaker,20,3,0,0
+1338,the subterraneans,17,2,0,0
+1339,Dream Scenario,14,2,0,0
+1340,black phone 2,13,3,0,0
+1341,I know exactly how you die,26,6,0,0
+1342,red headed woman,16,3,0,0
+1343,pepper,6,1,0,0
+1344,beat,4,1,0,0
+1345,the other fellow,16,3,0,0
+1346,consecration,12,1,0,0
+1347,the image,9,2,0,0
+1348,China Seas,10,2,0,0
+1349,tolkien,7,1,0,0
+1350,the moment -jane weinstock,26,4,0,0
+1351,William Faulkner's Mississippi,30,3,0,0
+1352,"love is the news, 1937",22,5,1,1
+1353,what lies below,15,3,0,0
+1354,woodstock or bust,17,3,0,0
+1355,dear zoe,8,2,0,0
+1356,judy blume forever,18,3,0,0
+1357,rabbit proof fence,18,3,0,0
+1358,poet's pub,10,2,0,0
+1359,up pompeii,10,2,0,0
+1360,a town called love,18,4,0,1
+1361,wait with me,12,3,0,0
+1362,inside,6,1,0,0
+1363,the book of love,16,4,0,1
+1364,nothing sacred,14,2,0,0
+1365,seven years in tibet,20,4,0,0
+1366,kundun,6,1,0,0
+1366,The Iron Heel of Oligarchy,26,5,0,0
+1367,rhythm in the clouds,20,4,0,0
+1368,book of fire,12,3,0,0
+1369,El Exorcismo de Carmen Farías,29,5,0,0
+1370,hearts of the west,18,4,0,0
+1371,plush,5,1,0,0
+1372,mccarthy,8,1,0,0
+1373,lyra,4,1,0,0
+1374,UFO SWEDEN,10,2,0,0
+1375,the inner circle,16,3,0,0
+1376,linda be good,13,3,0,0
+1377,girl from avenue A,18,4,0,0
+1378,the fuzzy pink nightgown,24,4,0,0
+1379,life upside down,16,3,0,0
+1380,Il Padrino parte ii,19,4,0,0
+1381,Il Padrino parte iii,20,4,0,0
+1382,Фрэнсис и Крестный отец,23,4,0,0
+1383,the harrad experiment,21,3,0,0
+1384,word of honor,13,3,0,0
+1385,elvis and the beauty queen,26,5,0,0
+1386,all hail the popcorn king,25,5,0,0
+1387,frances,7,1,0,0
+1388,in & out,8,3,0,0
+1389,the notebook,12,2,0,0
+1390,exclusive,9,1,0,0
+1391,it pays to advertise,20,4,0,0
+1392,following harry,15,2,0,0
+1393,big news,8,2,0,0
+1394,death machine,13,2,0,0
+1395,the Bourne legacy,17,3,0,0
+1396,safety in numbers,17,3,0,0
+1397,the secret: dare to dream,25,5,0,0
+1398,assassins club,14,2,0,0
+1399,lost in panic,13,3,0,0
+1400,lost in panic cruise,20,4,0,0
+1401,seven keys to baldpate,22,4,0,0
+1402,dangerous women,15,2,0,0
+1403,dangerous blonde,16,2,0,0
+1404,The Hard Life of an Adventurer,30,6,0,0
+1405,woman on the run,16,4,0,0
+1406,footsteps in the dark,21,4,0,0
+1407,rich and famous,15,3,0,0
+1408,a talent for murder,19,4,0,0
+1409,big driver,10,2,0,0
+1410,mad holiday,11,2,0,0
+1411,newsboy's home,14,2,0,0
+1412,publicity madness,17,2,0,0
+1413,Bombay Mail,11,2,0,0
+1414,the great hotel murder,22,4,0,0
+1415,murder on campus,16,3,0,0
+1416,hold the press,14,3,0,0
+1417,circumstantial evidence,23,2,0,0
+1418,the public menace,17,3,0,0
+1419,the crime of Helen Stanley,26,5,0,0
+1420,the great flirtation,20,3,0,0
+1421,white lies,10,2,0,0
+1422,full river red,14,3,0,0
+1423,fear is the rider,17,4,0,0
+1424,oklahoma city,13,2,0,0
+1425,nazi america; a secret history,30,5,0,0
+1426,blood in the face,17,4,0,0
+1427,36 hours,8,2,0,0
+1428,"breaking point, 1989",20,3,1,0
+1429,channel z; a magnificent obsession,34,5,0,0
+1430,the constant nymph,18,3,0,0
+1431,death at the love house,23,5,0,1
+1432,the corpse came c.o.d.,22,4,0,0
+1433,will success spoil rock hudson,30,5,0,0
+1434,back in circulation,19,3,0,0
+1435,off the record,14,3,0,0
+1436,two girls on broadway,21,4,0,0
+1437,the office wife,15,3,0,0
+1438,voltaire,8,1,0,0
+1439,faye,4,1,0,0
+1440,our time machine,16,3,0,0
+1441,"""11 october 1975""",17,3,1,0
+1442,some came running,17,3,0,0
+1443,the priests,11,2,0,0
+1444,the pope's exorcist,19,3,0,0
+1445,exiled to Shanghai,18,3,0,0
+1446,booksmart,9,1,0,0
+1447,"it's Christmas, Carol!",22,3,0,0
+1448,The Magic Garden of Stanley Sweetheart,38,6,0,0
+1449,she will rise,13,3,0,0
+1450,listen up philip,16,3,0,0
+1451,mad to be normal,16,4,0,0
+1452,"Brontë Country: The Life and Times of Three Famous Sisters, Emily, Anne & Charlotte Brontë",90,15,0,0
+1453,deadly love poetry,18,3,0,1
+1454,Ukraine is not a brothel,24,5,0,0
+1455,mission to moscow,17,3,0,0
+1456,"razors, the return of jack the ripper",37,7,0,0
+1457,the last voyage of the demeter,30,6,0,0
+1458,who is cletis tout?,19,4,0,0
+1459,onlyLOVERSleftalive,19,1,0,1
+1460,rosencrantz and guidernstern are dead,37,5,0,0
+1461,the second coming of suzanne,28,5,0,0
+1462,kippendorf's tribe,18,2,0,0
+1463,rothko,6,1,0,0
+1464,reflections in the mud,22,4,0,0
+1465,stopmotion,10,1,0,0
+1466,moon over parador,17,3,0,0
+1467,inserts,7,1,0,0
+1468,stand by me,11,3,0,0
+1469,waltzing with brando,20,3,0,0
+1470,the young runaways,18,3,0,0
+1471,the old man who read love stories,33,7,0,1
+1472,"funny you dont look two hundred, a constitutional vaudeville",60,9,0,0
+1473,let them all talk,17,4,0,0
+1475,byzantium,9,1,0,0
+1476,"""clear all wires!""",18,3,0,0
+1477,"""my best friend's exorcism""",27,4,0,0
+1478,alexander the last,18,3,0,0
+1479,eugenie...the story of her journey into perversion,50,7,0,0
+1480,life of chuck,13,3,0,0
+1481,the last thing he wanted,24,5,0,0
+1482,fletch,6,1,0,0
+1483,gunpowder milkshake,19,2,0,0
+1484,from straight A's to XXX,24,5,0,0
+1485,Judgement At Nuremberg,22,3,0,0
+1486,my diary of lies,16,4,0,0
+1487,safe in hell,12,3,0,0
+1488,strictly modern,15,2,0,0
+1489,non-fiction (doubles vies),26,3,0,0
+1490,firebrand,9,1,0,0
+1491,nearly thirty (casi treinta),28,4,0,0
+1492,love s p r e a d s,18,8,0,1
+1493,the mind reader,15,3,0,0
+1494,haunted honeymoon,17,2,0,0
+1495,finger of guilt,15,3,0,0
+1496,he knew women,13,3,0,0
+1497,root letter,11,2,0,0
+1498,pyramid,7,1,0,0
+1499,anatomy of a fall,17,4,0,0
+1500,six characters in search of an author,37,7,0,0
+1501,everything everywhere all at once,33,5,0,0
+1502,Asterix & Obelix: The Middle Kingdom,36,6,0,0
+1503,kiss of the damned,18,4,0,0
+1504,love again,10,2,0,1
+1505,the island,10,2,0,0
+1506,asteroid city,13,2,0,0
+1507,wittgenstein,12,1,0,0
+1508,the wisdom of crocodiles,24,4,0,0
+1509,wizard of kremlin,17,3,0,0
+1510,origin of the species,21,4,0,0
+1511,club zero,9,2,0,0
+1512,amour fou,9,2,0,0
+1513,the turning,11,2,0,0
+1514,Source: The Story of the Beats and the Beat Generation,54,10,0,0
+1515,the star,8,2,0,0
+1516,strange marriage,16,2,0,0
+1517,"four daughters, 1938",20,3,1,0
+1518,"four daughters, 2023",20,3,1,0
+1519,"after the fall, 1914",20,4,1,0
+1520,"after the fall, 1932",20,4,1,0
+1521,"aftre the fall, 1957",20,4,1,0
+1522,"after the fall, 2015",20,4,1,0
+1523,that good night,15,3,0,0
+1524,success is the best revenge,27,5,0,0
+1525,chicklit,8,1,0,0
+1526,the naked civil servant,23,4,0,0
+1527,an englishman in new york,25,5,0,0
+1528,tabloid,7,1,0,0
+1529,recount,7,1,0,0
+1530,windprints,10,1,0,0
+1531,"the pity of war, the loves and lives of the war poets",53,12,0,1
+1532,"paperback, 1977",15,2,1,0
+1533,i cover the waterfront,22,4,0,0
+1534,the commissioner,16,2,0,0
+1535,thumbelina,10,1,0,0
+1536,jake speed,10,2,0,0
+1537,you hurt my feelings,20,4,0,0
+1538,new york minute,15,3,0,0
+1539,the twins,9,2,0,0
+1540,"dylan thomas,1991",17,2,1,0
+1540,reality,7,1,0,0
+1541,Fanatic Heart: Geldof On Yeats,30,5,0,0
+1542,take a chance,13,3,0,0
+1543,please baby please,18,3,0,0
+1544,beyond the bolex,16,3,0,0
+1545,an american satan,17,3,0,0
+1546,Mr & Mme Adelman,16,4,0,0
+1547,Les Amours d'Astrée et de Céladon,33,6,0,0
+1548,midsummer in newtown,20,3,0,0
+1549,rec,3,1,0,0
+1551,a dispatch from reuters,23,4,0,0
+1552,song of norway,14,3,0,0
+1553,opium,5,1,0,0
+1554,confessions of an opium eater,29,5,0,0
+1555,attacking the devil,19,3,0,0
+1556,tomorrow never dies,19,3,0,0
+1557,唐伯虎點秋香,6,1,0,0
+1558,saturday fiction,16,2,0,0
+1559,one thousand paper cranes,25,4,0,0
+1560,lesbian dracula submarine,25,3,0,0
+1562,leto,4,1,0,0
+1563,follow her,10,2,0,0
+1564,dracula reborn,14,2,0,0
+1565,inexorable,10,1,0,0
+1566,marooned awakening,18,2,0,0
+1567,hidden child,12,2,0,0
+1568,the right approach,18,3,0,0
+1569,the unwritten law,17,3,0,0
+1570,the gilded lily,15,3,0,0
+1571,without reservations,20,2,0,0
+1572,arise my love,13,3,0,1
+1573,three came home,15,3,0,0
+1574,suitable flesh,14,2,0,0
+1575,search for beauty,17,3,0,0
+1576,tove,4,1,0,0
+1577,billy knight,12,2,0,0
+1578,college republicans,19,2,0,0
+1579,daliland,8,1,0,0
+1580,soft self portrait of salvador dali,35,6,0,0
+1581,dali in new york,16,4,0,0
+1582,little ashes,12,2,0,0
+1583,daughters of satan,18,3,0,0
+1584,let's switch,12,2,0,0
+1585,slow dancing in the big city,28,6,0,0
+1586,the staircase murders,21,3,0,0
+1587,play it by ear,14,4,0,0
+1588,cannes man,10,2,0,0
+1589,hollywood ending,16,2,0,0
+1590,reaching for the moon,21,4,0,0
+1591,late shift,10,2,0,0
+1592,on sacred ground,16,3,0,0
+1593,the vampyre; blood & ink,24,5,0,0
+1594,the crime is mine,17,4,0,0
+1595,La danseuse,11,2,0,0
+1596,the cat man of paris,20,5,0,0
+1597,coma,4,1,0,0
+1598,zombi child,11,2,0,0
+1599,perfume,7,1,0,0
+1600,descent into hell,17,3,0,0
+1601,hitchcock,9,1,0,0
+1602,paris paramount,15,2,0,0
+1603,stars at noon,13,3,0,0
+1604,death note,10,2,0,0
+1605,poor things,11,2,0,0
+1606,The Latin from Manhattan: The Vanessa Del Rio Story,51,9,0,0
+1607,The Shuroo Process,18,3,0,0
+1608,the whisper network,19,3,0,0
+1609,romantic rewrite,16,2,0,0
+1610,rock'n roll,11,2,0,0
+1611,The Shanghai Gesture,20,3,0,0
+1612,Sanctuary,9,1,0,0
+1613,red rooms,9,2,0,0
+1614,the mating season,17,3,0,0
+1615,the house across the lake,25,5,0,0
+1616,back in circulation,19,3,0,0
+1617,the great sinner,16,3,0,0
+1618,"Irresistible, Ann Turner",24,3,0,0
+1619,innocent thing,14,2,0,0
+1620,the snows of Kilimanjaro,24,4,0,0
+1621,woman on the run,16,4,0,0
+1622,the sun also rises,18,4,0,0
+1623,the naked maja,14,3,0,0
+1624,Fritz Lang Interviewed by William Friedkin,42,6,0,0
+1625,The Caine Mutiny Court-Martial,30,4,0,0
+1626,one more tomorrow,17,3,0,0
+1627,honeymoon for three,19,3,0,0
+1628,naughty but nice,16,3,0,0
+1629,letter of introduction,22,3,0,0
+1630,Le notti di Lucrezia Borgia,27,5,0,0
+1631,web of the spider,17,4,0,0
+1632,Fragments from Olympus: The Vision of Nikola Tesla,50,8,0,0
+1633,jane austen in manhattan,24,4,0,0
+1634,killer book club,16,3,0,0
+1635,the making of,13,3,0,0
+1636,il padrino,10,2,0,0
+1637,80 for brady,12,3,0,0
+1638,beach house,11,2,0,0
+1639,maestro,7,1,0,0
+1640,THE PALACE,10,2,0,0
+1641,five minutes to midnight,24,4,0,0
+1642,arabesque,9,1,0,0
+1643,Midnight In Paris,17,3,0,0
+1644,bocaccio '70,12,2,0,0
+1645,my house is full of mirrors,27,6,0,0
+1646,god is a bullet,15,4,0,0
+1647,"Jackie: Die First Lady, 2016",28,5,1,0
+1648,Gut zu Vögeln,13,3,0,0
+1649,SMS für Dich,12,3,0,0
+1650,love again,10,2,0,1
+1651,"Le temps retrouvé, d'après l'oeuvre de Marcel Proust",52,8,0,0
+1652,Emanuelle and the White Slave Trade,35,6,0,0
+1653,the love machine,16,3,0,1
+1654,the constant nymph,18,3,0,0
+1654,Dracula: Pages from a Virgin's Diary,36,6,0,0
+1655,"scandal sheet, 1985",19,3,1,0
+1656,"scandal sheet, 1952",19,3,1,0
+1657,"scandal sheet, 1939",19,3,1,0
+1658,"scandal sheet, 1931",19,3,1,0
+1659,music box,9,2,0,0
+1660,career,6,1,0,0
+1661,geraldine,9,1,0,0
+1662,stefan luchian,14,2,0,0
+1663,the ides of march,17,4,0,0
+1663,dead men don't wear plaid,25,5,0,0
+1664,day of the fight,16,4,0,0
+1665,blonde ice,10,2,0,0
+1666,what we do is secret,20,5,0,0
+1667,top secret affair,17,3,0,0
+1668,kentucky fried movie,20,3,0,0
+1669,my brother's wife,17,3,0,0
+1670,the November man,16,3,0,0
+1671,gonzo girl,10,2,0,0
+1672,lee,3,1,0,0
+1673,"fist of fear, touch of death",28,6,0,0
+1674,inland empire,13,2,0,0
+1675,"the ladies man, 1961",20,4,1,0
+1676,centerfold girls,16,2,0,0
+1677,i cover the war,15,4,0,0
+1678,GOTHIC,6,1,0,0
+1679,Vita Activa: The Spirit of Hannah Arendt,40,7,0,0
+1680,Liebe kann wie Gift sein (1958),31,6,1,0
+1681,her alibi,9,2,0,0
+1682,catherine called birdy,22,3,0,0
+1683,don't worry darling,19,3,0,0
+1684,high society,12,2,0,0
+1685,jean dubarry,12,2,0,0
+1686,shock and awe,13,3,0,0
+1687,l'elegant criminel,18,2,0,0
+1688,next year if all goes well,26,6,0,0
+1689,pardonnez moi,13,2,0,0
+1690,all about actresses,19,3,0,0
+1691,tralala,7,1,0,0
+1692,polisse,7,1,0,0
+1693,dna,3,1,0,0
+1694,Torn from the Flag: A Film by Klaudia Kovacs,44,9,0,0
+1695,afire,5,1,0,0
+1696,stefan zweig,12,2,0,0
+1697,liebbe thomas,13,2,0,0
+1698,hamsun,6,1,0,0
+1699,monthy python's liar's autobigraphy,35,4,0,0
+1700,good posture,12,2,0,0
+1701,american fiction,16,2,0,0
+1702,lisa Frankenstein,17,2,0,0
+1703,"Simon Boccanegra, 1991",22,3,1,0
+1704,"Simon Boccanegra, 1998",22,3,1,0
+1705,"Simon Boccanegra, 1995",22,3,1,0
+1706,"Verdi Simon Boccanegra, 2021",28,4,1,0
+1707,"Simon Boccanegra, 2010",22,3,1,0
+1708,"Simon Boccanegra, 1985",22,3,1,0
+1709,"VERDI, Simon Boccanegra, 2020",29,4,1,0
+1710,"the curse of turandot,2021",26,4,1,0
+1711,tales of hoffman,16,3,0,0
+1712,"la traviata, 1982",17,3,1,0
+1713,The Metropolitan Opera Presents le boheme,41,6,0,0
+1714,Turandot,8,1,0,0
+1715,"Die Meistersinger von Nürnberg, 1984",36,5,1,0
+1716,"Die Meistersinger von Nürnberg, 1988",36,5,1,0
+1717,R. Strauss: Capriccio,21,3,0,0
+1718,"Capriccio, 1993",15,2,1,0
+1719,"lohengrin, 1986",15,2,1,0
+1720,"lohengrin, 1990",15,2,1,0
+1721,"Andrea Chénier, 1955",20,3,1,0
+1722,"Andrea Chénier, 1973",20,3,1,0
+1723,"Andrea Chénier, 1911",20,3,1,0
+1724,"turandot, 2022",14,2,1,0
+1725,"Der Rosenkavalier, 1926",23,3,1,0
+1726,"Der Rosenkavalier, 1961",23,3,1,0
+1727,seven veils,11,2,0,0
+1728,the seventh veil,16,3,0,0
+1729,"the devil and the angel, 1946",29,6,1,0
+1730,"greed, personally directed by erich von stroheim",48,7,0,0
+1731,my wife is an actress,21,5,0,0
+1732,an ocean apart,14,3,0,0
+1733,Joyce Carol Oates: A Body in the Service of Mind,48,10,0,0
+1734,neither confirm nor deny,24,4,0,0
+1735,notes of autumn,15,3,0,0
+1736,midsommar,9,1,0,0
+1737,the country girl,16,3,0,0
+1738,persona,7,1,0,0
+1739,another persona,15,2,0,0
+1740,the phantom broadcast,21,3,0,0
+1741,argylle,7,1,0,0
+1742,the fall of the roman empire,28,6,0,0
+1743,"the man in the white suit, Alexander Mackendrick",48,8,0,0
+1744,beyond the light barrier,24,4,0,0
+1745,"fair play, Chloe Domont",23,4,0,0
+1746,"the post office girl, Terrence Davies",37,6,0,0
+1747,"A PORTRAIT OF THE ARTIST AS A YOUNG MAN, 1977",45,10,1,0
+1748,frankie starlight,17,2,0,0
+1749,the disappearance of shere hite,31,5,0,0
+1750,satan wants you,15,3,0,0
+1751,merrily we go to hell,21,5,0,0
+1752,breaking the news,17,3,0,0
+1753,bernadette,10,1,0,0
+1754,wildcat,7,1,0,0
+1755,raven's hollow,14,2,0,0
+1756,the faculty,11,2,0,0
+1757,ballerina,9,1,0,0
+1758,totally killer,14,2,0,0
+1759,sky heist,9,2,0,0
+1760,keeping secrets,15,2,0,0
+1761,exclusive,9,1,0,0
+1762,Billy Jack goes to Washington,29,5,0,0
+1763,devil's food,12,2,0,0
+1764,"Goodnight, Sweet Marilyn",24,3,0,0
+1765,the house across the street,27,5,0,0
+1766,she's back on Broadway,22,4,0,0
+1767,Nevada Badmen,13,2,0,0
+1768,"Hollywood, the movie",20,3,0,0
+1769,die inner zone,14,3,0,0
+1770,Die Wannseekonferenz,20,2,0,0
+1771,single by contract,18,3,0,0
+1772,lieber thomas,13,2,0,0
+1773,Dutschke - shots from the right,31,6,0,0
+1774,berlin '39,10,2,0,0
+1775,the pigeon tunnel,17,3,0,0
+1776,advise & consent,16,3,0,0
+1777,if winter comes,15,3,0,0
+1778,the sell out,12,3,0,0
+1779,man proof,9,2,0,0
+1780,too hot to handle,17,4,0,0
+1781,big brown eyes,14,3,0,0
+1782,a girl with ideas,17,4,0,0
+1783,sextette,8,1,0,0
+1784,"diary of a madman, Reginald Le Borg",35,7,0,0
+1785,untold scandal,14,2,0,0
+1786,actresses,9,1,0,0
+1787,five dolls for an august moon,29,6,0,0
+1788,storm warning,13,2,0,0
+1789,"the shadows, a novel by stephen grimes",38,7,0,0
+1790,shadow vaults,13,2,0,0
+1791,she came to me,14,4,0,0
+1792,魔水晶,3,1,0,0
+1793,Aren't You Even Gonna Kiss Me Goodbye?,38,7,0,0
+1794,آخر مرة انتحرت,14,3,0,0
+1795,explorers,9,1,0,0
+1796,the thing called love,21,4,0,1
+1797,my own private idaho,20,4,0,0
+1798,Hush-a-Bye Baby,15,2,0,0
+1799,another time another place,26,4,0,0
+1800,they won't forget,17,3,0,0
+1801,"upstaged, andrew  walkington",28,3,0,0
+1802,"freud's last session, matt brown",32,5,0,0
+1804,"the nanssen passport, valentine valera|philippe saada",53,6,0,0
+1805,THE BREAKING ICE,16,3,0,0
+1806,The Year of the Everlasting Storm,33,6,0,0
+1807,"Trending Topic,Yukun Xin",24,3,0,0
+1808,goddesses in the flames of war,30,6,0,0
+1809,"the lazarus syndrome, jerry thorpe",34,5,0,0
+1810,rumble through the dark,23,4,0,0
+1811,"the dark girl, enrico saller",28,5,0,0
+1812,"go west, young man",18,4,0,0
+1813,little sky,10,2,0,0
+1814,knight without armor,20,3,0,0
+1815,there's still tomorrow,22,3,0,0
+1815,nyad,4,1,0,0
+1816,Napoleon,8,1,0,0
+1816,film stars don't die in liverpool,33,6,0,0
+1817,bone in the throat,18,4,0,0
+1817,the book that wrote itself,26,5,0,0
+1818,the lady bird diaries,21,4,0,0
+1818,the girl most likely,20,4,0,0
+1819,rain without thunder,20,3,0,0
+1820,maggie black,12,2,0,0
+1821,illuminata,10,1,0,0
+1822,where the devil roams,21,4,0,0
+1823,friends of mr sweeney,21,4,0,0
+1824,housewife,9,1,0,0
+1825,"lord byron of broadway,",23,4,0,0
+1826,"secret society of lies,",23,4,0,0
+1827,tempest,7,1,0,0
+1828,six triple 🎱,12,3,0,0
+1830,the bikeriders,14,2,0,0
+1831,roustabout,10,1,0,0
+1832,stage fright,12,2,0,0
+1833,$10 RAISE,9,2,0,0
+1834,six days seven nights,21,4,0,0
+1835,six hundred and first phone call,32,6,0,0
+1836,morning glory,13,2,0,0
+1837,the teacher's lounge,20,3,0,0
+1838,guinevere,9,1,0,0
+1839,go,2,1,0,0
+1840,the lyricist wannabe,20,3,0,0
+1841,the rocking horse winner,24,4,0,0
+1842,Time Still Turns the Pages,26,5,0,0
+1843,a fine madness,14,3,0,0
+1844,the less-on,11,2,0,0
+1845,freelance,9,1,0,0
+1846,in the land of saints and sinners,33,7,0,0
+1847,starting over,13,2,0,0
+1848,the broadway of lerner and lowe,31,6,0,0
+1849,fedora,6,1,0,0
+1850,romantic comedy,15,2,0,0
+1851,the tiger makes out,19,4,0,0
+1852,the kid stays in the picture,28,6,0,0
+1853,chaplin,7,1,0,0
+1854,AMERICAN MASTERS FILM: Woody Allen: A Documentary,49,7,0,0
+1855,i hate kids,11,3,0,0
+1856,loitering with intent,21,3,0,0
+1857,the rich inner life of penelope cloud,37,7,0,0
+1858,perks of being a🧱🌷,18,4,0,0
+1859,may december,12,2,0,0
+1860,mary of the movies,18,4,0,0
+1861,Voy! Voy! Voy!,14,3,0,0
+1862,dance first,11,2,0,0
+1862,dance first,11,2,0,0
+1863,origin,6,1,0,0
+1864,saint exupery,13,2,0,0
+1865,novel love,10,2,0,1
+1866,under the yum yum tree,22,5,0,0
+1867,the list,8,2,0,0
+1868,the mistress,12,2,0,0
+1869,"silent night, fatal night",25,4,0,0
+1870,438 days,8,2,0,0
+1871,the untouchables,16,2,0,0
+1872,untouchable,11,1,0,0
+1873,touched with fire,17,3,0,0
+1874,the medusa touch,16,3,0,0
+1875,the touch,9,2,0,0
+1876,silver and the book of dreams,29,6,0,0
+1877,lucky devils,12,2,0,0
+1878,winner,6,1,0,0
+1879,fairyland,9,1,0,0
+1880,light on broken glass,21,4,0,0
+1881,one day,7,2,0,0
+1882,high art,8,2,0,0
+1883,elegy,5,1,0,0
+1884,ace in the hole,15,4,0,0
+1885,ambrosia,8,1,0,0
+1886,horrors of the black museum,27,5,0,0
+1887,the deadly dream,16,3,0,0
+1888,the circle,10,2,0,0
+1889,blowing smoke,13,2,0,0
+1890,the zone of interest,20,4,0,0
+1891,wedding night,13,2,0,0
+1892,confirm or deny,15,3,0,0
+1893,uninvited,9,1,0,0
+1894,a mistake,9,2,0,0
+1895,radical wolfe,13,2,0,0
+1896,queen bee,9,2,0,0
+1897,lucky me,8,2,0,0
+1898,bring your smile along,22,4,0,0
+1899,head office,11,2,0,0
+1900,An American Dream: The Education of William Bowman,50,8,0,0
+1901,Far Eastern Golgotha,20,3,0,0
+1902,our town,8,2,0,0
+1903,oki's movie,11,2,0,0
+1904,petty romance,13,2,0,0
+1905,the king's case note,20,4,0,0
+1906,king maker,10,2,0,0
+1907,el conde,8,2,0,0
+1908,victoria and abdul,18,3,0,0
+1909,cattle call,11,2,0,0
+1910,the grand budapest hotel,24,4,0,0
+1911,recount,7,1,0,0
+1912,"the attic, the hiding of anne frank",35,7,0,0
+1913,sakharov,8,1,0,0
+1914,william s burroughs birthday bash,33,5,0,0
+1915,dr bird's advice for sad poets,30,6,0,0
+1916,dead in a week or your money back,33,8,0,0
+1917,the big knife,13,3,0,0
+1918,denial,6,1,0,0
+1919,the beautiful fantastic,23,3,0,0
+1920,the debt,8,2,0,0
+1921,sharma and beyond,17,3,0,0
+1922,Taking Tiger Mountain,21,3,0,0
+1923,Taking Tiger Mountain: Revisited,32,4,0,0
+1924,the final academy documents,27,4,0,0
+1925,The Storied Life of A.J. Fikry,30,6,0,0
+1926,fuck marry kill,15,3,0,0
+1927,flight to tangier,17,3,0,0
+1928,the answer man,14,3,0,0
+1929,"motherhood (aka, new york mom)",30,5,0,0
+1930,twilight of the gods,20,4,0,0
+1931,the fiction makers,18,3,0,0
+1932,chemical wedding,16,2,0,0
+1933,the mysteries of myra,21,4,0,0
+1934,the red lips of the octopuss,28,6,0,0
+1935,abbey of thelema,16,3,0,0
+1936,in search of the great beast 666,32,7,0,0
+1937,the magician,12,2,0,0
+1938,one step to eternity,20,4,0,0
+1939,sins of casanova,16,3,0,0
+1940,wet woman in the wind,21,5,0,0
+1941,kotoko,6,1,0,0
+1942,"the time element (aka, Westinghouse Desilu Playhouse: The Time Element)",71,10,0,0
+1943,the down in the hole gang,25,6,0,0
+1944,vincent francois paul and the others,36,6,0,0
+1945,le camion,9,2,0,0
+1946,"La nuit, tous les chats sont gris",33,7,0,0
+1947,i hate actors,13,3,0,0
+1948,uranus,6,1,0,0
+1949,deux,4,1,0,0
+1949,a pure formality,16,3,0,0
+1950,a loving father,15,3,0,0
+1951,bon voyage,10,2,0,0
+1953,dumas,5,1,0,0
+1954,"glenn, the flying robot",23,4,0,0
+1955,thalasso,8,1,0,0
+1956,lost illusions,14,2,0,0
+1957,a hundred and one nights,24,5,0,0
+1958,welcome to new york,19,4,0,0
+1959,civil war,9,2,0,0
+1960,the idea of you,15,4,0,0
+1961,the prime minister,18,3,0,0
+1961,dear brigitte,13,2,0,0
+1962,the magic box,13,3,0,0
+1963,encore,6,1,0,0
+1964,"another time, another place",27,4,0,0
+1965,the chapman report,18,3,0,0
+1966,the magic box,13,3,0,0
+1967,shake hands with the devil,26,5,0,0
+1968,don't just stand there,22,4,0,0
+1969,lock up your daughters,22,4,0,0
+1970,raise hell: the life & times of molly ivins,43,9,0,0
+1971,chapter zero,12,2,0,0
+1972,there's always hope,19,3,0,0
+1973,raise the red lantern,21,4,0,0
+1974,la ceremonie,12,2,0,0
+1975,little girl blue,16,3,0,0
+1976,La Tour de glace,16,4,0,0
+1977,the bricklayer,14,2,0,0
+1978,suspect zero,12,2,0,0
+1979,"classified,roel reine",21,2,0,0
+1980,"classified, alfred santell",26,3,0,0
+1981,that deadwood feeling,21,3,0,0
+1982,hamnet,6,1,0,0
+1983,964 Pinnochio,13,2,0,0
+1984,nekromantik,11,1,0,0
+1985,salmonberries,13,1,0,0
+1986,nekromantik 2,13,2,0,0
+1987,The Eternal Night,17,3,0,0
+1988,the man who doesn't return,26,5,0,0
+1989,Jacquot de Nantes (南特的雅克·德米),28,4,0,0
+1990,malina,6,1,0,0
+1991,until the end of the world,26,6,0,0
+1992,tron,4,1,0,0
+1993,out there,9,2,0,0
+1994,To Walk Invisible: The Brontë Sisters,37,6,0,0
+1995,the woman he loved,18,4,0,1
+1996,thank your lucky stars,22,4,0,0
+1997,four's a crowd,14,3,0,0
+1998,the male animal,15,3,0,0
+1999,the first woman president,25,4,0,0
+2000,miller's girl,13,2,0,0
+2001,past lives,10,2,0,0
+2002,tron legacy,11,2,0,0
+2003,tron ares,9,2,0,0
+2004,stolen face,11,2,0,0
+2005,heat wave,9,2,0,0
+2006,three spare wives,17,3,0,0
+2007,the columnist,13,2,0,0
+2008,london road,11,2,0,0
+2009,wicked little letters,21,3,0,0
+2010,"all that glitters, bret easton ellis",36,6,0,0
+2011,"oh, canada",10,2,0,0
+2012,everyday's a holiday,20,3,0,0
+2013,a slightly pregnant man,23,4,0,0
+2014,rote sonne,10,2,0,0
+2015,born on the fourth of july,26,6,0,0
+2016,nine dead gay guys,18,4,0,0
+2017,all of us strangers,19,4,0,0
+2018,rosewater,9,1,0,0
+2019,the nightwatch,14,2,0,0
+2020,"Polaris, Lynne Ramsay",21,3,0,0
+2021,a ghost story,13,3,0,0
+2022,Made in England: The Films of Powell and Pressburger,52,9,0,0
+2023,shikun,6,1,0,0
+2024,the box man,11,3,0,0
+2025,exergue – on documenta 14,25,5,0,0
+2026,personals 2:casualsex.com,25,2,0,0
+2027,hypnosen,8,1,0,0
+2028,the winter witch,16,3,0,0
+2029,Going to Mars: The Nikki Giovanni Project,41,7,0,0
+2030,I don't expect anyone to believe me,35,7,0,0
+2031,Cinema Has Been My True Love: The Work and Times of Lynda Myles,63,13,0,1
+2032,"frida, carla gutierrez",22,3,0,0
+2033,"frida, julie taymor",19,3,0,0
+2034,the novelist,12,2,0,0
+2035,deception of the novelist,25,4,0,0
+2036,the novelist's film,19,3,0,0
+2037,madame web,10,2,0,0
+2038,in country,10,2,0,0
+2039,malice in wonderland,20,3,0,0
+2040,there's one born every minute,29,5,0,0
+2041,"the outrun, Nora Fingscheidt",28,4,0,0
+2042,ferrari,7,1,0,0
+2043,the man who had power over women,32,7,0,0
+2044,Daaaaaali!,10,1,0,0
+2045,st. ives,8,2,0,0
+2046,look both ways,14,3,0,0
+2047,the laundromat,14,2,0,0
+2048,antiviral,9,1,0,0
+2049,Ingeborg Bachmann - Journey Into the Desert,43,7,0,0
+2050,which brings me to you,22,5,0,0
+2051,"Munch, Henrik Martin Dahlsbakken",32,4,0,0
+2052,Ivanovo schastye,16,2,0,0
+2053,paging mister darcy,19,3,0,0
+2054,Gilded Newport Mysteries: Murder at the Breakers,48,7,0,0
+2055,big gold brick,14,3,0,0
+2056,"turn me on, dammit",18,4,0,0
+2057,a nice girl like you,20,5,0,0
+2058,The Mauritanian,15,2,0,0
+2059,pussycat pussycat i love you,28,5,0,1
+2060,one man's way,13,3,0,0
+2061,crossplot,9,1,0,0
+2062,the rectory,11,2,0,0
+2063,"musica, rudy mancuso",20,3,0,0
+2064,"me him her, max landis",22,5,0,0
+2065,"Bardo, False Chronicle of a Handful of Truths",45,8,0,0
+2066,the road to wellville,21,4,0,0
+2067,"no strings attached, josef rusnak",33,5,0,0
+2068,the epic that never was,23,5,0,0
+2069,¢hump ¢hange,12,2,0,0
+2070,"the unforgiven, john huston",27,4,0,0
+2071,god's outlaw,12,2,0,0
+2072,"Une famille, Christine Angot",28,4,0,0
+2073,don't leave me this way,23,5,0,0
+2074,"suicide, the comedy",19,3,0,0
+2075,a necessary death,17,3,0,0
+2076,Les jeux sont faits,19,4,0,0
+2077,her bridal night,16,3,0,0
+2078,house of recordi,16,3,0,0
+2079,mistress of the world,21,4,0,0
+2080,the prize,9,2,0,0
+2081,(G)rève party,13,2,0,0
+2082,Le coeur à l'ouvrage,20,4,0,0
+2083,Hitler in Hollywood,19,3,0,0
+2084,the list of adrian messenger,28,5,0,0
+2085,the uncanny,11,2,0,0
+2086,Pourquoi (pas) le Brésil,24,4,0,0
+2087,the price of desire,19,4,0,0
+2088,tomorrow we move,16,3,0,0
+2089,the stone council,17,3,0,0
+2090,Simone: Woman of the Century,28,5,0,0
+2091,the great beauty,16,3,0,0
+2092,two neighbors,13,2,0,0
+2093,shadows in the sun,18,4,0,0
+2094,shirley,7,1,0,0
+2095,spotlight,9,1,0,0
+2096,the eternal memory,18,3,0,0
+2097,my ex and whys,14,4,0,0
+2098,laughter in the dark,20,4,0,0
+2099,she's funny that way,20,4,0,0
+2100,leaving las vegas,17,3,0,0
+2101,that's adequate,15,2,0,0
+2102,cruella,7,1,0,0
+2103,one trick pony,14,3,0,0
+2104,china the panda adventure,25,4,0,0
+2105,the chairman,12,2,0,0
+2106,mother mary,11,2,0,0
+2107,FÜHRER AND SEDUCER,18,3,0,0
+2108,the only game in town,21,5,0,0
+2109,all in one day,14,4,0,0
+2110,read it and weep,16,4,0,0
+2111,the zookeeper,13,2,0,0
+2112,the zookeeper's wife,20,3,0,0
+2113,turtle diary,12,2,0,0
+2114,the gentlemen,13,2,0,0
+2115,circle of danger,16,3,0,0
+2116,one night with you,18,4,0,0
+2117,the house in the woods,22,5,0,0
+2118,so well remembered,18,3,0,0
+2119,daddio,6,1,0,0
+2120,sinister,8,1,0,0
+2121,the kid,7,2,0,0
+2122,west of brooklyn,16,3,0,0
+2123,brooklyn brothers beat the best,31,5,0,0
+2124,brooklyn story,14,2,0,0
+2125,brooklyn sonnet,15,2,0,0
+2126,from baghdad to brooklyn,24,4,0,0
+2127,brooklyn boheme,15,2,0,0
+2128,my brooklyn,11,2,0,0
+2129,Rabble Rousers: Frances Goldin and the Fight for Cooper Square,62,10,0,0
+2130,the holdovers,13,2,0,0
+2131,fog over frisco,15,3,0,0
+2132,"werner herzog, radical dreamer",30,4,0,0
+2133,blood on the sun,16,4,0,0
+2134,"do not fold, spindle, or mutilate",33,6,0,0
+2135,confessions of a co-ed,22,4,0,0
+2136,le belve,8,2,0,0
+2137,return to peyton place,22,4,0,0
+2138,wild in the country,19,4,0,0
+2139,"i walk the line, john frankenheimer",35,6,0,0
+2140,intimate affairs,16,2,0,0
+2141,drive away dolls,16,3,0,0
+2142,la la land,10,3,0,0
+2143,quintessentially irish,22,2,0,0
+2144,irish wish,10,2,0,0
+2145,the luck of the irish,21,5,0,0
+2146,irish eyes are smiling,22,4,0,0
+2147,magic fire,10,2,0,0
+2148,stopmotion,10,1,0,0
+2149,<3 is a =/̵/’̿̿ ̿ ̿ ̿ ̿,23,8,0,0
+2150,The Murderous Miss Highsmith,28,4,0,0
+2151,"ball of fire, howard hawks",26,5,0,0
+2152,the day the earth caught fire,29,6,0,0
+2153,I'm Still Here: Real Diaries of Young People Who Lived During the Holocaust,75,13,0,0
+2154,fire in the sky,15,4,0,0
+2155,jonah,5,1,0,0
+2156,Winter on Fire (2015) Ukraine's Fight for Freedom,49,8,1,0
+2157,"The Wedding, 1944 (Russian: Свадьба, romanized: Svadba)",55,7,1,0
+2158,nothing serious,15,2,0,0
+2159,shortcut to happiness,21,3,0,0
+2160,hollywood heist,15,2,0,0
+2161,they might be giants,20,4,0,0
+2162,green & gold,12,3,0,0
+2163,cold turkey,11,2,0,0
+2164,scandalous,10,1,0,0
+2165,bound for glory,15,3,0,0
+2166,nickolodeon,11,1,0,0
+2167,vanishing america,17,2,0,0
+2168,sunset,6,1,0,0
+2169,stormy,6,1,0,0
+2170,typist artist pirate king,25,4,0,0
+2171,perfect,7,1,0,0
+2172,zolza,5,1,0,0
+2173,late night with the devil,25,5,0,0
+2174,felines,7,1,0,0
+2175,the odd couple II,17,4,0,0
+2176,blumhouse's truth or dare,25,4,0,0
+2177,renner,6,1,0,0
+2178,guys reading poems,18,3,0,0
+2179,coming through the rye,22,4,0,0
+2180,scre4m,6,1,0,0
+2181,lousy carter,12,2,0,0
+2182,dude,4,1,0,0
+2183,lord of misrule,15,3,0,0
+2184,lucia,5,1,0,0
+2185,dateline san francisco,22,3,0,0
+2186,of men and women,16,4,0,0
+2187,the program,11,2,0,0
+2188,"day and night, bernard henri levy",33,6,0,0
+2189,spirits of the dead,19,4,0,0
+2190,good,4,1,0,0
+2191,sorority wars,13,2,0,0
+2192,the scribbler,13,2,0,0
+2193,YA,2,1,0,0
+2194,the unlikely pilgrimage of harold fry,37,6,0,0
+2195,christmas love letter,21,3,0,1
+2196,a bestselling kind of love,26,5,0,1
+2197,"Stalker,Andrei Tarkovsky",24,2,0,0
+2198,A 19-Year-Old's Map,19,3,0,0
+2199,the king of the two day wonder,30,7,0,0
+2200,ida makes a movie,17,4,0,0
+2201,ulysses coyote,14,2,0,0
+2202,a ticket to the circus,22,5,0,0
+2203,capricorn one,13,2,0,0
+2204,secret of the wings,19,4,0,0
+2205,supernatural,12,1,0,0
+2206,concrete beat,13,2,0,0
+2207,creative nonfiction,19,2,0,0
+2208,"diaries, notes, and sketches",28,4,0,0
+2209,the premature burial,20,3,0,0
+2210,"the intruder, 1962",18,3,1,0
+2211,"day and night, tina gharavi",27,5,0,0
+2212,THE FILE ON THELMA JORDAN,25,5,0,0
+2213,& SONS,6,2,0,0
+2214,"patterns, fielder cook",22,3,0,0
+2215,Questa libertà di avere...le ali bagnate,40,6,0,0
+2216,visions,7,1,0,0
+2217,The Lost Footage of Leah Sullivan,33,6,0,0
+2218,"merrily we live, Norman Z. McLeod",33,6,0,0
+2219,the man who came to dinner,26,6,0,0
+2220,Eddie and the Cruisers II: Eddie Lives!,39,7,0,0
+2220,patty hearst,12,2,0,0
+2221,Eddie and the Cruisers,22,4,0,0
+2222,the incredible mr limpet,24,4,0,0
+2223,the reckless moment,19,3,0,0
+2224,"valentino, ken russell",22,3,0,0
+2225,"stolen moments, james vincent",29,4,0,0
+2226,for heaven's sake,17,3,0,0
+2227,pink string and sealing wax,27,5,0,0
+2228,POOLMAN,7,1,0,0
+2229,kissinger takes paris,21,3,0,0
+2230,her kind of man,15,4,0,0
+2231,bathing beauty,14,2,0,0
+2232,love and learn,14,3,0,1
+2233,winter meeting,14,2,0,0
+2234,please don't eat the daisies,28,5,0,0
+2235,the turning point of jim malloy,31,6,0,0
+2236,bachelor in paradise,20,3,0,0
+2237,american woman,14,2,0,0
+2238,the radical story of patty hearst,33,6,0,0
+2239,"guerilla, the taking of patty hearst",36,6,0,0
+2241,captive,7,1,0,0
+2242,the ordeal of patty hearst,26,5,0,0
+2243,tanya,5,1,0,0
+2244,patty,5,1,0,0
+2245,bat*21,6,1,0,0
+2256,hacking hate,12,2,0,0
+2257,miss grant takes richmond,25,4,0,0
+2258,lucy calls the president,24,4,0,0
+2259,lured,5,1,0,0
+2260,easy to wed,11,3,0,0
+2261,"that's right, you're wrong",26,4,0,0
+2262,twelve crowded hours,20,3,0,0
+2263,room service,12,2,0,0
+2264,there goes my girl,18,4,0,0
+2265,i dream too much,16,4,0,0
+2266,behind the evidence,19,3,0,0
+2267,the adventures of the three reporters,37,6,0,0
+2268,the wedding night,17,3,0,0
+2269,the white devil,15,3,0,0
+2270,the grand exit,14,3,0,0
+2271,the personals,13,2,0,0
+2272,the postman,11,2,0,0
+2273,lady in white,13,3,0,0
+2274,"death notice, herman yau",24,4,0,0
+2276,vortex,6,1,0,0
+2277,behind green lights,19,3,0,0
+2278,The Ghost and Mrs. Muir,23,5,0,0
+2279,"blithe spirit, david lean",25,4,0,0
+2280,men are not gods,16,4,0,0
+2281,"rawhide, henry hathaway",23,3,0,0
+2282,behold my wife,14,3,0,0
+2283,ex-lady,7,1,0,0
+2284,power ballad,12,2,0,0
+2285,longlegs,8,1,0,0
+2286,dead reckoning,14,2,0,0
+2287,treasure,8,1,0,0
+2288,arriverdeci e grazie,20,3,0,0
+2289,live for life,13,3,0,0
+2290,one night...a train,19,3,0,0
+2291,Qu'est-ce qui fait courir David?,32,5,0,0
+2292,success is the best revenge,27,5,0,0
+2293,nina,4,1,0,0
+2294,L.A. Without A Map,18,4,0,0
+2295,paris connections,17,2,0,0
+2296,love letters,12,2,0,1
+2297,the best years of a life,24,6,0,0
+2298,La Bête,7,2,0,0
+2299,the secret diaries of miss anne lister,38,7,0,0
+2300,love on toast,13,3,0,1
+2301,interlude,9,1,0,0
+2302,mr harrigan's phone,19,3,0,0
+2303,klute,5,1,0,0
+2304,spoonful of sugar,17,3,0,0
+2305,BELOVED INFIDEL,15,2,0,1
+2306,the woman in cabin 10,21,5,0,0
+2307,the last letter from your lover,31,6,0,1
+2308,O. Henry's Full House,21,4,0,0
+2309,home town story,15,3,0,0
+2310,a family affair,15,3,0,0
+2311,Gabriele Muenter - In the shadow of Kandinsky,45,8,0,0
+2312,black box diaries - shiori ito,30,6,0,0
+2313,the suicide note - jake helgren,31,6,0,0
+2314,if it bleeds,12,3,0,0
+2315,bergman - a year in a life,26,7,0,0
+2316,fly me to the moon,18,5,0,0
+2317,"the exorcism, joshua john miller",32,5,0,0
+2318,nashville,9,1,0,0
+2319,a virgin in hollywood,21,4,0,0
+2320,A Burning Passion: The Margaret Mitchell Story,46,7,0,0
+2321,"bukowski, james franco",22,3,0,0
+2322,freeze frame,12,2,0,0
+2323,the other lover,15,3,0,1
+2324,the arrangement,15,2,0,0
+2325,the biographer,14,2,0,0
+2326,faye,4,1,0,0
+2327,the case for christ,19,4,0,0
+2328,a sacrifice,11,2,0,0
+2329,the sacrifice,13,2,0,0
+2330,the dead don't hurt,19,4,0,0
+2331,a farewell to harry,19,4,0,0
+2332,the carpetbaggers,17,2,0,0
+2333,too good to be true,19,5,0,0
+2335,swimming home,13,2,0,0
+2336,horizon an american saga chapter one,36,6,0,0
+2337,maid of orleans,15,3,0,0
+2338,"lady chatterley's lover, Laure de Clermont-Tonnerre",51,6,0,1
+2339,snl 1975 (retitled 'saturday night'),36,5,1,0
+2340,Modernism Inc.: The Eliot Noyes Design Story,44,7,0,0
+2341,"Federico, the imaginary life of Fellini",39,6,0,0
+2342,ALL OF YOU WILL DIE,19,5,0,0
+2343,the puppetman,13,2,0,0
+2344,puppet master,13,2,0,0
+2345,Molly Moon and the Incredible Book of Hypnotism,47,8,0,0
+2346,crimetime,9,1,0,0
+2347,fortune's smile,15,2,0,0
+2348,Absolutely Fabulous: The Movie,30,4,0,0
+2349,"searching eva, pia hellenthal",29,4,0,0
+2350,a complete unkownn,18,3,0,0
+2351,"men of crisis, the harvey wallinger story",41,7,0,0
+2352,marty supreme,13,2,0,0
+2353,scandal,7,1,0,0
+2354,the house of snails,19,4,0,0
+2355,"crime of passion, gerd oswald",29,5,0,0
+2356,the jury's secret,17,3,0,0
+2357,the interpreter,15,2,0,0
+2358,mystery of the wax museum,25,5,0,0
+2359,"colette, milan cieslar",22,3,0,0
+2360,affairs of a gentleman,22,4,0,0
+2361,the finger points,17,3,0,0
+2362,doctor x,8,2,0,0
+2363,the important witness,21,3,0,0
+2364,twenty four hours in woman's life,33,6,0,0
+2365,spring bears love,17,3,0,1
+2366,the possessed,13,2,0,0
+2367,love spreads,12,2,0,1
+2368,Revenge of the Radioactive Reporter,35,5,0,0
+2369,the executioner's song,22,3,0,0
+2370,Belly of the Beast,18,4,0,0
+2371,"Мастер и Маргарита, 2023",24,4,1,0
+2372,vaktsina,8,1,0,0
+2373,las vegas shakedown,19,3,0,0
+2374,waltz for monica,16,3,0,0
+2375,diary of a deadbeat,19,4,0,0
+2376,"che, richard fleischer",22,3,0,0
+2377,"the fall guy, david leitch",26,5,0,0
+2378,opening night,13,2,0,0
+2379,ted and venus,13,3,0,0
+2380,Dear America: Letters Home from Vietnam,39,6,0,0
+2381,lost focus,10,2,0,0
+2382,confessions of a male prostitute,32,5,0,0
+2383,lost angeles,12,2,0,0
+2384,snapshot,8,1,0,0
+2385,after you,9,2,0,0
+2386,"witch, Hinde/Zammit",19,2,0,0
+2387,courier x,9,2,0,0
+2388,the other zoey,14,3,0,0
+2389,the tijuana story,17,3,0,0
+2390,the lives of jenny dolan,24,5,0,0
+2391,she married her boss,20,4,0,0
+2392,auction,7,1,0,0
+2393,my first film?,14,3,0,0
+2394,Отражение тьмы!,15,2,0,0
+2395,enter the devil,15,3,0,0
+2396,the second civil war,20,4,0,0
+2397,primary colors,14,2,0,0
+2398,the river niger,15,3,0,0
+2399,Guyana Tragedy: The Story of Jim Jones,38,7,0,0
+2400,the clean up crew,17,4,0,0
+2401,venom,5,1,0,0
+2402,venom: the last dance,21,4,0,0
+2403,afrAId,6,1,0,0
+2404,five star final,15,3,0,0
+2405,daring daughters,16,2,0,0
+2406,the girl thief,14,3,0,0
+2407,house of errors,15,3,0,0
+2408,opus,4,1,0,0
+2409,storm center,12,2,0,0
+2410,griffin in summer,17,3,0,0
+2411,"apartmen, Mohd Pierre Andre",27,4,0,0
+2412,"apartment 7A, Natalie Erika James",33,5,0,0
+2413,a german life,13,3,0,0
+2414,lily in love,12,3,0,1
+2415,murder by death,15,3,0,0
+2416,the prime of miss jean brodie,29,6,0,0
+2417,"quick, before it melts",22,4,0,0
+2418,rage,4,1,0,0
+2419,dedication,10,1,0,0
+2420,i'm dancing as fast as i can,28,7,0,0
+2421,the siegfried idyll,19,3,0,0
+2422,george eliot: a scandalous life,31,5,0,0
+2423,a merry war,11,3,0,0
+2424,"the lost city,aaron & adam nee",30,6,0,0
+2425,metal heart,11,2,0,0
+2426,otto e mezzo,12,3,0,0
+2427,the dark half,13,3,0,0
+2428,the hidden half,15,3,0,0
+2429,paul bowles half moon,21,4,0,0
+2430,18½,3,1,0,0
+2431,A WOMAN AND A HALF: HILDEGARD KNEF,34,7,0,0
+2432,The Other Half of the Sky - Stories of Chinese Businesswomen,60,11,0,0
+2433,Salem's Lot,11,2,0,0
+2434,soy nevenka,11,2,0,0
+2435,september 5,11,2,0,0
+2436,september,9,1,0,0
+2437,killer's kiss,13,2,0,0
+2438,bobby,5,1,0,0
+2439,blue moon,9,2,0,0
+2440,La femme la plus riche du monde,31,7,0,0
+2441,Loro,4,1,0,0
+2442,catchfire,9,1,0,0
+2443,priest of love,14,3,0,1
+2444,the i don't care girl,21,5,0,0
+2445,fake!,5,1,0,0
+2446,friday afternoon in the universe,32,5,0,0
+2447,parer's war,11,2,0,0
+2448,tomorrow was the war,20,4,0,0
+2449,Buddha's Little Finger,22,3,0,0
+2450,janie jones,11,2,0,0
+2451,"Extérieur, nuit",15,2,0,0
+2452,the passage,11,2,0,0
+2453,Jenatsch,8,1,0,0
+2454,niki,4,1,0,0
+2455,Monsieur Aznavour,17,2,0,0
+2456,when fall is coming,19,4,0,0
+2457,tootsie,7,1,0,0
+2458,"liz, adam leon",14,3,0,0
+2459,deliver me from nowhere,23,4,0,0
+2460,2.0 Lucy,8,2,0,0
+2461,a different man,15,3,0,0
+2462,Women in Oversized Men's Shirts,31,5,0,0
+2463,the critic,10,2,0,0
+2464,blood & ink,11,3,0,0
+2465,what a woman,12,3,0,0
+2466,"Mae Mest, lee philips",21,4,0,0
+2467,Labor of Love: The Arlette Schweitzer Story,43,7,0,1
+2468,"my dream boat,shaw brothers",27,4,0,0
+2469,"the walking dead, michael curtiz",32,5,0,0
+2470,the venetian affair,19,3,0,0
+2471,the yellow ticket,17,3,0,0
+2472,the little wild girl,20,4,0,0
+2473,omar the tent maker,19,4,0,0
+2474,mr wong in chinatown,20,4,0,0
+2475,beast beast,11,2,0,0
+2476,"babysitter's black book, lee friedlander",40,5,0,0
+2477,men always lie,14,3,0,0
+2478,the killing game,16,3,0,0
+2479,testament of Orpheus,20,3,0,0
+2480,il penito,9,2,0,0
+2481,the happy hooker goes to Hollywood,34,6,0,0
+2482,never say never again,21,4,0,0
+2483,seizure,7,1,0,0
+2484,my husband is missing,21,4,0,0
+2485,delirium,8,1,0,0
+2486,revolting rhymes,16,2,0,0
+2487,news from nowhere,17,3,0,0
+2488,cuts,4,1,0,0
+2489,breaking the code,17,3,0,0
+2490,wolf,4,1,0,0
+2491,waltz of the toreadors,22,4,0,0
+2492,primary motive,14,2,0,0
+2493,face,4,1,0,0
+2494,satisfaction,12,1,0,0
+2495,"love letters, amy holden jones",30,5,0,1
+2496,"country gold, mickey reece",26,4,0,0
+2497,"country gold, gilbert cates",27,4,0,0
+2498,the big knife,13,3,0,0
+2499,the devil's teeth,17,3,0,0
+2500,the last call,13,3,0,0
+2501,stuffed butterflies,19,2,0,0
+2502,secreto de confesion,20,3,0,0
+2503,twenty four hours of pleasure,29,5,0,0
+2504,el portero,10,2,0,0
+2505,pubis angelical,15,2,0,0
+2506,grand hotel,11,2,0,0
+2507,heretic,7,1,0,0
+2508,jessica darling's it list,25,4,0,0
+2509,atropia,7,1,0,0
+2510,"transit, christian petzold",26,3,0,0
+2511,deadly leaks,12,2,0,0
+2512,the taste of apple seeds,24,5,0,0
+2513,deadly leaks 2,14,3,0,0
+2514,the poll diaries,16,3,0,0
+2515,"unforgettable, j. c. falcon",27,4,0,0
+2516,mystery woman,13,2,0,0
+2517,grave misconduct,16,2,0,0
+2518,special effects,15,2,0,0
+2519,scenes from rotterdam,21,3,0,0
+2520,"the letter, rodrigo h vila",26,5,0,0
+2521,spread,6,1,0,0
+2522,esau,4,1,0,0
+2523,Drôle de jeu,12,3,0,0
+2524,one husband too many,20,4,0,0
+2525,a season for love,17,4,0,1
+2526,"the haunting, robert wise",25,4,0,0
+2527,"the haunting, jan de bont",25,5,0,0
+2528,paranoia,8,1,0,0
+2529,roar,4,1,0,0
+2530,emilia perez,12,2,0,0
+2531,wilder & me,11,3,0,0
+2532,return to Montauk,17,3,0,0
+2533,the french minister,19,3,0,0
+2534,Lettres à un jeune poète,24,5,0,0
+2535,sarah's key,11,2,0,0
+2536,albert savarus,14,2,0,0
+2537,Je Tu Il Elle,13,4,0,0
+2538,world premier,13,2,0,0
+2539,kiss the boys goodnight,23,4,0,0
+2540,no time to marry,16,4,0,0
+2541,his secretary,13,2,0,0
+2542,pretty ladies,13,2,0,0
+2543,married flirts,14,2,0,0
+2544,their own desire,16,3,0,0
+2545,riptide,7,1,0,0
+2546,biography of a bachelor girl,28,5,0,0
+2547,fast and loose,14,3,0,0
+2548,haunted honeymoon,17,2,0,0
+2549,the saxton charm,16,3,0,0
+2550,lovers courageous,17,2,0,1
+2551,inspiration,11,1,0,0
+2552,Vitrinnyy ekzemplyar,20,2,0,0
+2553,Prorok. Istoriya Aleksandra Pushkina,36,4,0,0
+2554,storm over lisbon,17,3,0,0
+2555,opera prima,11,2,0,0
+2556,rock of ages,12,3,0,0
+2557,cold providence,15,2,0,0
+2558,enemies.a love story,20,3,0,1
+2559,i know why the caged bird sings,31,7,0,0
+2560,sisters,7,1,0,0
+2561,love language,13,2,0,1
+2562,the order,9,2,0,0
+2563,90 minutes in heaven,20,4,0,0
+2564,beyond the sea,14,3,0,0
+2565,sleep,5,1,0,0
+2566,sibyl,5,1,0,0
+2567,performer,9,1,0,0
+2568,within the whirlwind,20,3,0,0
+2569,"dark, almost night",18,3,0,0
+2570,el grito,8,2,0,0
+2571,death on the nile,17,4,0,0
+2572,the athena syndrome,19,3,0,0
+2573,Agatha & Poirot: Partners in Crime,34,6,0,0
+2574,A Dream Is a Wish Your Heart Makes: The Annette Funicello Story,63,12,0,0
+2575,collected stories,17,2,0,0
+2576,perfect strangers,17,2,0,0
+2577,the room next door,18,4,0,0
+2578,fountain of youth,17,3,0,0
+2579,the ballad of a small player,28,6,0,0
+2580,a bunch of amateurs,19,4,0,0
+2581,if you could see what i hear,28,7,0,0
+2582,spies inc,9,2,0,0
+2583,dirty tricks,12,2,0,0
+2584,loose ends,10,2,0,0
+2585,john and yoko a love story,26,6,0,1
+2586,fooling hitler,14,2,0,0
+2587,will there really be morning?,29,5,0,0
+2588,the translator,14,2,0,0
+2589,Soundtrack to a Coup d'Etat,27,5,0,0
+2590,phantom,7,1,0,0
+2591,shanghai express,16,2,0,0
+2592,watchers,8,1,0,0
+2593,poison pen,10,2,0,0
+2594,Memories of My Melancholy Whores,32,5,0,0
+2595,the chosen,10,2,0,0
+2597,I Wonder Who's Kissing You Now,30,6,0,0
+2598,cheating blondes,16,2,0,0
+2599,TWO FOR TONIGHT,15,3,0,0
+2600,Sitting Pretty,14,2,0,0
+2601,The Housekeeper's Daughter,26,3,0,0
+2602,simple women,12,2,0,0
+2603,This is the end,15,4,0,0
+2604,let the corpses tan,19,4,0,0
+2605,able danger,11,2,0,0
+2606,pictures of baby jane doe,25,5,0,0
+2607,south of heaven,15,3,0,0
+2608,nothing else matters,20,3,0,0
+2609,you ain't seen nothing yet,26,5,0,0
+2610,swanee river,12,2,0,0
+2611,rhapsody in blue,16,3,0,0
+2612,spread,6,1,0,0
+2613,deathtrap,9,1,0,0
+2614,dead man's letters,18,3,0,0
+2615,lord of the ants,16,4,0,0
+2616,the ugly swans,14,3,0,0
+2617,death in venice,15,3,0,0
+2618,the short films of david lynch,30,6,0,0
+2619,somewhere in time,17,3,0,0
+2620,aldrich ames:traitor within,27,3,0,0
+2621,brimstone and treacle,21,3,0,0
+2622,the glorias,11,2,0,0
+2623,the kovax box,13,3,0,0
+2624,deliberate intent,17,2,0,0
+2625,zuma beach,10,2,0,0
+2626,turk 182,8,2,0,0
+2627,prospero's books,16,2,0,0
+2628,it never entered my mind,24,5,0,0
+2629,me and my brother,17,4,0,0
+2630,Tage die bleiben,16,3,0,0
+2631,heil,4,1,0,0
+2631,fuori,5,1,0,0
+2632,a bookshop in paris,19,4,0,0
+2633,Anna Fucking Molnar,19,3,0,0
+2633,I'll Never Forget What's'isname,31,4,0,0
+2634,C(r)ook,7,1,0,0
+2634,every breath you take,21,4,0,0
+2635,advice to the lovelorn,22,4,0,1
+2635,A Girl With Closed Eyes,23,5,0,0
+2636,warrior empress,15,2,0,0
+2636,the thin man,12,3,0,0
+2637,the hangman,11,2,0,0
+2637,after the thin man,18,4,0,0
+2638,the linguine incident,21,3,0,0
+2638,another thin man,16,3,0,0
+2639,a night full of rain,20,5,0,0
+2639,shadow of the thin man,22,5,0,0
+2640,across the river and into the trees,35,7,0,0
+2640,the thin man goes home,22,5,0,0
+2641,song of the thin man,20,5,0,0
+2642,star spangled girl,18,3,0,0
+2643,Dinner with Family with Brett Gelman and Brett Gelman's Family,62,10,0,0
+2644,ride the high iron,18,4,0,0
+2645,parthenope,10,1,0,0
+2646,the gorge,9,2,0,0
+2646,day for night,13,3,0,0
+2647,a season in hell,16,4,0,0
+2648,all is well,11,3,0,0
+2649,the great actor,15,3,0,0
+2650,the brutalist,13,2,0,0
+2651,saint judy,10,2,0,0
+2652,back of the book,16,4,0,0
+2653,the other side of the wind,26,6,0,0
+2654,from the head,13,3,0,0
+2655,with this ring,14,3,0,0
+2656,la ilegal,9,2,0,0
+2657,The Golden Moment: An Olympic Love Story,40,7,0,1
+2658,convicted,9,1,0,0
+2659,The Moelln Letters,18,3,0,0
+2660,believer,8,1,0,0
+2661,dreams (sex love),17,3,0,1
+2662,wolf man,8,2,0,0
+2663,the Christmas gift,18,3,0,0
+2664,welcome to mooseport,20,3,0,0
+2665,deep cuts,9,2,0,0
+2666,hidden in the spotlight,23,4,0,0
+2667,"adolescence, ashley avis",24,3,0,0
+2668,it's fine! everything is fine.,30,5,0,0
+2669,"suicide, the comedy",19,3,0,0
+2670,shakespeare's plan 12 from outer space,38,6,0,0
+2671,"kiss me, kill me",16,4,0,0
+2672,Untitled Crispin Hellion Glover Project,39,5,0,1
+2673,F. Scott Fitzgerald and 'the Last of the Belles',48,9,0,0
+2674,the music lovers,16,3,0,1
+2675,jane,4,1,0,0
+2675,Tears and Laughter: The Joan and Melissa Rivers Story,53,9,0,0
+2676,The Lindbergh Kidnapping Case,29,4,0,0
+2677,cinema twain,12,2,0,0
+2678,becoming Led Zeppelin,21,3,0,0
+2679,arrival,7,1,0,0
+2680,the barefoot contessa,21,3,0,0
+2681,the love lottery,16,3,0,1
+2682,martians go home,16,3,0,0
+2683,i love your work,16,4,0,1
+2684,hedda,5,1,0,0
+2685,"Baltimore, Christine Molloy and Joe Lawlor",42,6,0,0
+2686,the chronology of water,23,4,0,0
+2687,love will tear us apart,23,5,0,1
+2688,redemption,10,1,0,0
+2689,darkest miriam,14,2,0,0
+2690,the friend,10,2,0,0
+2691,a simple favor,14,3,0,0
+2692,another simple favor,20,3,0,0
+2693,"don't ask me, ask God",21,5,0,0
+2694,up your alley,13,3,0,0
+2695,wishful thinking,16,2,0,0
+2696,lucky ed's tabloid news,23,4,0,0
+2697,the preview murder mystery,26,4,0,0
+2698,rust,4,1,0,0
+2699,Twilight Zone: Rod Serling's Lost Classics,42,6,0,0
+2700,The Revisionist,15,2,0,0
+2701,weekend at the Waldorf,22,4,0,0
+2702,claudelle inglish,17,2,0,0
+2703,WHAT A WAY TO GO! -J LEE THOMPSON,33,8,0,0
+2704,first affair,12,2,0,0
+2705,S.O.B.,6,1,0,0
+2706,it's a bird...it's a plane...it's superman,42,6,0,0
+2707,stand up and be counted,23,5,0,0
+2708,if i were you,13,4,0,0
+2709,"no pay, nudity.",15,3,0,0
+2710,Jane Austen Wrecked My Life,27,5,0,0
+2711,the forest is red,17,4,0,0
+2712,undersea girl,13,2,0,0
+2713,split fiction,13,2,0,0
+2714,end of the road,15,4,0,0
+2715,st ives,7,2,0,0
+2716,prime time,10,2,0,0
+2717,good to go,10,3,0,0
+2718,heart of justice,16,3,0,0
+2719,perfume,7,1,0,0
+2720,the sounding,12,2,0,0
+2721,boom,4,1,0,0
+2722,to Barcelona with love,22,4,0,1
+2723,shadows,7,1,0,0
+2724,the seven minutes,17,3,0,0
+2725,tunnel vision,13,2,0,0
+2726,"the dukes of hazzard, hazzard in hollywood",42,7,0,0
+2727,hitler: the last ten days,25,5,0,0
+2728,mahler,6,1,0,0
+2729,lisztomania,11,1,0,0
+2730,the secret life of arnold bax,29,6,0,0
+2731,"dan hawk, psychic detective",27,4,0,0
+2732,Conjuring The Book of the Dead,30,6,0,0
+2733,the bloody brood,16,3,0,0
+2734,Dracula: A Love Tale,20,4,0,1
+2735,Vuxna människor,15,2,0,0
+2736,the big fisherman,17,3,0,0
+2737,a day at the beach,18,5,0,0
+2738,king of the underground,23,4,0,0
+2739,Du bringst mich noch um,23,5,0,0
+2739,being maria,11,2,0,0
+2740,antichrist,10,1,0,0
+2741,the boys from brazil,20,4,0,0
+2742,Saiyaara,8,1,0,0
+2743,White Hot: The Mysterious Murder of Thelma Todd,47,8,0,0
+2744,"Sorry, Baby (eva victor)",24,4,0,0
+2745,BROADCAST SIGNAL INTRUSION,26,3,0,0
+2746,"it's never over, jeff buckley",29,5,0,0
+2747,in the hand of Dante,20,5,0,0
+2748,a piece of eden,15,4,0,0
+2749,four dimensions of greta,24,4,0,0
+2750,term of trial,13,3,0,0
+2751,two minutes to midnight,23,4,0,0
+2752,misery harbor,13,2,0,0
+2753,copy boy,8,2,0,0
+2754,atta boy,8,2,0,0
+2755,"The Naked Gun, Akiva Schaffer",29,5,0,0
+2756,"Unknown Number: The High School Catfish, Skye Borgman",53,8,0,0
+2757,"Poetic License, Maude Apatow",28,4,0,0
+2758,the third lover,15,3,0,1
+2758,the creatures,13,2,0,0
+2759,sooner or later,15,3,0,0
+2760,W.W. and the Dixie Dancekings,29,5,0,0
+2762,medium rare,11,2,0,0
+2763,edge of darkness,16,3,0,0
+2763,impact,6,1,0,0
+2764,lions for lambs,15,3,0,0
+2765,the company you keep,20,4,0,0
+2766,"Relay,David Mackenzie",21,2,0,0
+2767,swiped,6,1,0,0
+2768,"588, rue Paradis",16,3,0,0
+2769,diary of a telephone operator,29,5,0,0
+2770,auguste,7,1,0,0
+2771,claretta,8,1,0,0
+2772,Bello onesto emigrato Australia sposerebbe compaesana illibata,62,7,0,0
+2773,woman of wonders,16,3,0,0
+2774,a man in love,13,4,0,1
+2775,the wonderful urge,18,3,0,0
+2775,wisdom of happiness,19,3,0,0
+2776,barefoot boys,13,2,0,0
+2777,"30 Is a Dangerous Age, Cynthia",30,6,0,0
+2778,Hildegard of Bingen,19,3,0,0
+2779,in search of the brontes,24,5,0,0
+2780,tilda,5,1,0,0
+2781,"the correspondent, Kriv Stenders",32,4,0,0
+2782,"broken voices, Ondrej Provaznik",31,4,0,0
+2783,"little trouble girls, Urska Djukic",34,5,0,0
+2785,the Hemingway play,18,3,0,0
+2786,the seven percent solution,26,4,0,0
+2787,the uncanny,11,2,0,0
+2788,Inevitable Grace,16,2,0,0
+2789,losing faith,12,2,0,0
+2790,why shoot the teacher,21,4,0,0
+2791,SHELL,5,1,0,0
+2792,bone lake,9,2,0,0
+2793,the phoenician scheme,21,3,0,0
+2794,anemone,7,1,0,0
+2795,waltz of the toreadors,22,4,0,0
+2796,the merry wives of windsor,26,5,0,0
+2797,the index has gone fishing,26,5,0,0
+2798,natural causes,14,2,0,0
+2799,my friend walter,16,3,0,0
+2800,an awfully big adventure,24,4,0,0
+2801,breaking the code,17,3,0,0
+2802,"reya, brozzi lunetta",20,3,0,0
+2803,gentlemen,9,1,0,0
+2804,Den evige ektemann,18,3,0,0
+2805,the eternal husband,19,3,0,0
+2806,deep water,10,2,0,0
+2807,flap,4,1,0,0
+2808,irish eyes are smiling,22,4,0,0
+2809,100 NIGHTS OF HERO,18,4,0,0
+2810,the november plot,17,3,0,0
+2811,forever,7,1,0,0
+2812,mother russia,13,2,0,0
+2813,INT.HALLWAY/NIGHT,17,1,0,0
+2814,"the manchurian candidate, John Frankenheimer",44,5,0,0
+2815,"the manchurian candidate, Jonathan Demme",40,5,0,0
+2816,byrd and the bees,17,4,0,0
+2817,"Emperor, Lee Tamahori",21,3,0,0
+2818,"Salve Maria, Mar Coll",21,4,0,0
+2819,CRY TO HEAVEN,13,3,0,0
+2820,Hikidashi no naka no rabu retâ,30,6,0,0
+2821,Yajû shisubeshi,15,2,0,0
+2822,Trinacria: Porsche 959,22,3,0,0
+2823,Dawn of a New Day: The Man Behind VHS,37,9,0,0
+2824,Orwell: 2+2=5,13,2,0,0
+2825,sallyland,9,1,0,0
+2826,the ice tower,13,3,0,0
+2827,the substance of fire,21,4,0,0
+2828,the hill of kites,17,4,0,0
+2829,one line of reality,19,4,0,0
+2830,Blue Moon,9,2,0,0
+2831,bvgoniA,7,1,0,0
+2832,death and the dervish,21,4,0,0
+2833,after the hunt,14,3,0,0
+2834,"helvetica, gary hustwit",23,3,0,0
+2835,the harms case,14,3,0,0
+2836,Svetozar Markovic,17,2,0,0
+2837,early works,11,2,0,0
+2839,"das kapital, Zelimir Zilnik",27,4,0,0
+2839,The Extraordinary Miss Flower,29,4,0,0
+2840,@,1,1,0,0
+2841,Pose,4,1,0,0
+2842,Winter in Sokcho,16,3,0,0
+2843,DIE MY LOVE,11,3,0,1
+2844,the Carpenter's son,19,3,0,0
+2845,wake up dead man : a knives out mystery,39,9,0,0
+2846,"sentimental value, joachim trier",32,4,0,0
+2847,"Nürnberg, james vanderbilt",26,3,0,0
+2848,intrigo: death of an author,27,5,0,0
+2849,the long teeth,14,3,0,0
+2850,cover up,8,2,0,0
+2851,fackham hall,12,2,0,0
+2852,victorian psycho,16,2,0,0
+2853,Fast and Loose,14,3,0,0
+2854,a girl's story,14,3,0,0
+2855,1949,4,1,1,0
+2856,love lessons,12,2,0,1
+2857,the beloved,11,2,0,1
+2858,misty green,11,2,0,0
+2859,yellow letters,14,2,0,0
+2860,la bola negra,13,3,0,0
+2861,the adventures of cliff booth,29,5,0,0
+2862,all of a sudden,15,4,0,0
+2863,ink,3,1,0,0
+2864,artificial,10,1,0,0
+2865,Sheep In The Box & Look Back,28,7,0,0
+2866,I play Rocky,12,3,0,0
+2867,"last days, matt copson",22,4,0,0
+2868,moulin,6,1,0,0
+2869,perfect girl,12,2,0,0
+2870,verity,6,1,0,0
+2871,the salzburg connection,23,3,0,0
+2872,trauma,6,1,0,0
+2873,lili marleen,12,2,0,0
+2874,die einsteiger,14,2,0,0
+2875,Am nächsten Morgen kehrte der Minister nicht an seinen Arbeitsplatz zurück,74,11,0,0
+2876,epidemic,8,1,0,0
+2877,Die 120 Tage von Bottrop,24,5,0,0
+2878,a trick of light,16,4,0,0
+2879,the end of violence,19,4,0,0
+2880,100 Jahre Adolf Hitler - Die letzte Stunde im Führerbunker,58,10,0,0
+2881,betty,5,1,0,0
+2882,evil eyes,9,2,0,0
+2883,far cry,7,2,0,0
+2884,one more round,14,3,0,0
+2885,the girl behind the white picket fence,38,7,0,0
+2886,"don't worry, he won't get far on foot",37,8,0,0
+2887,holy beasts,11,2,0,0
+2888,13 tracks to frighten agatha black,34,6,0,0
+2889,schindler space architect,25,3,0,0
+2890,red letters,11,2,0,0
+2891,the last minute,15,3,0,0
+2892,one point O,11,3,0,0
+2893,johnny walker,13,2,0,0
+2894,my soul is slashed,18,4,0,0
+27561,macumba love,12,2,0,1
